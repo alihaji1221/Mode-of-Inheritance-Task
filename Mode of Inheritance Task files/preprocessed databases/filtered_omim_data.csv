@@ -1,0 +1,1068 @@
+Genomic Position Start,Genomic Position End,Gene/Locus And Other Related Symbols,Gene Name,Phenotypes,MOI
+1,10800000,ASPG2,"Asperger syndrome, susceptibility to, 2","{Asperger syndrome susceptibility 2}, 608631 (2), Multifactorial, Isolated cases",
+1,3400000,BCPR,Breast cancer-related regulator of TP53,Breast cancer (1),
+1,10800000,"CTRCT24, CTAA2","Cataract 24, anterior polar","Cataract 24, anterior polar, 601202 (2), Autosomal dominant",AD
+1,3400000,DDD3,Dowling-Degos disease 3,"Dowling-Degos disease 3, 615674 (2), Autosomal dominant",AD
+1,3400000,"DUP17p13.3, C17DUPp13.3",Chromosome 17p13.3 duplication syndrome,"Chromosome 17p13.3 duplication syndrome, 613215 (4)",
+1,3400000,"MDLS, MDS, MDCR, DEL17p13.3, C17DELp13.3",Miller-Dieker lissencephaly syndrome (chromosome 17p13.3 deletion syndrome),"Miller-Dieker lissencephaly syndrome, 247200 (4), Autosomal dominant",AD
+1,10800000,NDNC7,"Nail disorder, nonsyndromic congenital, 7 (onychodysplasia, isolated congenital)","Nail disorder, nonsyndromic congenital, 7, 605779 (2), Autosomal dominant",AD
+1,10800000,"SHFLD3, DUP17p13.3, C17DUPp13.3",Split-hand/foot malformation with long bone deficiency 3,"Split-hand/foot malformation with long bone deficiency 3, 612576 (4), Autosomal dominant",AD
+1,10800000,SXGQTL1,Sex hormone-binding globulin circulating level quantitative trait locus 1,"[Sex hormone-binding globulin circulating level QTL 1], 613498 (2)",
+142789,181650,DOC2B,"Double C2-like domain-containing protein, beta",,
+212389,352807,"RPH3AL, NOC2",Rabphilin 3A-like,,
+439978,445940,"RFLNB, FAM101B, CFM1",Refilin B,,
+508668,714839,"VPS53, HCCS1, PCH2E",VPS53 subunit of GARP complex,"Pontocerebellar hypoplasia, type 2E, 615851 (3), Autosomal recessive",AR
+732596,742968,"TLCD3A, FAM57A, CT120",TLC domain-containing protein 3A,,
+744421,754410,"GEMIN4, NEDMCR","Neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities","Neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities, 617913 (3), Autosomal recessive",AR
+759330,785895,"GLOD4, C17orf25",Glyoxalase domain-containing protein 4,,
+782353,792509,"RNMTL1, HC90",RNA methyltransferase-like 1,,
+799310,979776,"NXN, RRS2",Nucleoredoxin,"Robinow syndrome, autosomal recessive 2, 618529 (3), Autosomal recessive",AR
+997129,1003671,"TIMM22, TIM22, COXPD43",Translocase of inner mitochondrial membrane 22,"?Combined oxidative phosphorylation deficiency 43, 618851 (3), Autosomal recessive",AR
+1003519,1229722,ABR,ABR activator of RhoGEF and GTPase,,
+1270444,1271815,"BHLHA9, BHLHF42, MSSD, CCSPD","Basic helix-loop-helix family, member A9","?Camptosynpolydactyly, complex, 607539 (3), Autosomal recessive; Syndactyly, mesoaxial synostotic, with phalangeal reduction, 609432 (3), Autosomal recessive",AR
+1279662,1300978,"TUSC5, LOST1",Tumor suppressor candidate 5,,
+1344275,1400222,"YWHAE, MDCR, MDS","Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon isoform",,
+1420693,1456232,CRK,Avian sarcoma virus CT10 (v-crk) oncogene homolog,,
+1464186,1492686,MYO1C,Myosin IC,,
+1494577,1516612,"INPP5K, SKIP, MDCCAID",Inositol polyphosphate-5-phosphatase K,"Muscular dystrophy, congenital, with cataracts and intellectual disability, 617404 (3), Autosomal recessive",AR
+1517718,1562792,"PITPNA, PITPN","Phosphotidylinositol transfer protein, alpha",,
+1569254,1630088,"SLC43A2, LAT4","Solute carrier family 43 (L-type amino acid transporter, member 2)",,
+1633858,1645732,"SCARF1, SREC, KIAA0149","Scavenger receptor class F, member 1",,
+1646150,1649866,RILP,RAB-interacting lysosomal protein,,
+1650629,1684867,"PRPF8, PRPC8, RP13",Pre-mRNA processing factor 8,"Retinitis pigmentosa 13, 600059 (3), Autosomal dominant",AD
+1713903,1713987,"MIR22, MIRN22",Micro RNA 22,,
+1716523,1738585,"WDR81, CAMRQ2, HYC3",WD repeat-containing protein 81,"Cerebellar ataxia, impaired intellectual development, and dysquilibrium syndrome 2, 610185 (3), Autosomal recessive; Hydrocephalus, congenital, 3, with brain anomalies, 617967 (3), Autosomal recessive",AR
+1742871,1755265,"PLI, SERPINF2",Alpha-2-plasmin inhibitor,"Alpha-2-plasmin inhibitor deficiency, 262850 (3), Autosomal recessive",AR
+1762060,1777565,"SERPINF1, PEDF, OI6","Serpin peptidase inhibitor, clade F, member 1","Osteogenesis imperfecta, type VI, 613982 (3), Autosomal recessive",AR
+1779485,1829902,SMYD4,SET and MYND domain-containing protein 4,,
+1830005,1900082,"RPA1, PFBMFT6","Replication protein A1, 70kD","Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 6, 619767 (3), Autosomal dominant",AD
+1934677,2025334,"RTN4RL1, NGRH2, NGR3",Reticulon 4 receptor-like 1,,
+2030112,2043898,"DPH1, DPH2L1, OVCA1, DEDSSH",Diphthamide biosynthesis protein 1,"Developmental delay with short stature, dysmorphic facial features, and sparse hair, 616901 (3), Autosomal recessive",AR
+2042022,2043425,OVCA2,OVCA2 serine hydrolase domain-containing protein,,
+2049908,2050008,"MIR132, MIRN132",Micro RNA 132,,
+2050271,2050380,"MIR212, MIRN212",Micro RNA 212,,
+2055103,2063241,HIC1,Hypermethylated in cancer,,
+2059839,2303785,"SMG6, EST1A, KIAA0732",SMG6 nonsense-mediated mRNA decay factor,,
+2303378,2325264,SRR,Serine racemase,,
+2322396,2336457,"TSR1, KIAA1401","TSR1, 20S r RNA accumulation, S. cerevisiae, homolog of",,
+2337501,2381054,"SGSM2, KIAA0397",Small G protein signaling modulator 2,,
+2384073,2401060,"MNT, ROX",MAX network transcriptional repressor,,
+2593183,2685615,"PAFAH1B1, LIS1","Platelet-activating factor acetylhydrolase, isoform 1B, alpha subunit","Subcortical laminar heterotopia, 607432 (3), Autosomal dominant; Lissencephaly 1, 607432 (3), Autosomal dominant",AD
+2689387,2712020,"CLUH, CLU1, KIAA0664","Clustered mitochondria, D. discoideum, homolog of",,
+2755645,3037741,"RAP1GAP2, GARNL4, KIAA1039",RAP1 GTPase-activating protein 2,,
+3088484,3104422,"OR1D2, OLFR1","Olfactory receptor, family 1, subfamily D, member 2",,
+3197519,3198448,OR1A2,"Olfactory receptor, family 1, subfamily A, member 2",,
+3207667,3218896,OR1A1,"Olfactory receptor, family 1, subfamily A, member 1",,
+3400001,10800000,MRT33,"Intellectual developmental disorder, autosomal recessive 33","Intellectual developmental disorder, autosomal recessive 33, 614341 (2), Autosomal recessive",AR
+3440019,3513858,SPATA22,Spermatogenesis-associated protein 22,,
+3474110,3503405,ASPA,Aspartoacylase (aminoacylase-2),"Canavan disease, 271900 (3), Autosomal recessive",AR
+3510502,3557812,"TRPV3, OLMS1, FNEPPK2","Transient receptor potential cation channel, subfamily V, member 3","?Palmoplantar keratoderma, nonepidermolytic, focal 2, 616400 (3), Autosomal dominant; Olmsted syndrome 1, 614594 (3), Autosomal dominant",AD
+3565446,3609411,"TRPV1, VR1","Transient receptor potential cation channel, subfamily V, member 1 (vanilloid receptor 1; capsaicin receptor)",,
+3608240,3636250,"SHPK, CARKL",Sedoheptulokinase,"[Sedoheptulokinase deficiency], 617213 (3), Autosomal recessive",AR
+3636459,3663103,CTNS,Cystinosin,"Cystinosis, nephropathic, 219800 (3), Autosomal recessive; Cystinosis, ocular nonnephropathic, 219750 (3), Autosomal recessive; Cystinosis, late-onset juvenile or adolescent nephropathic, 219900 (3), Autosomal recessive; Cystinosis, atypical nephropathic, 219800 (3), Autosomal recessive",AR
+3662895,3668578,"TAX1BP3, TIP1",TAX1-binding protein 3,,
+3668812,3669665,EMC6,"Endoplasmic reticulum membrane protein complex, subunit 6",,
+3673227,3696155,P2RX5,"Purinergic receptor P2X, ligand-gated ion channel, 5",,
+3714628,3801188,"ITGAE, CD103","Integrin, alpha-E",,
+3723903,3726699,"HASPIN, GSG2",Histone H3-associated protein kinase,,
+3802158,3846246,"NCBP3, C17orf85",Nuclear cap-binding protein 3,,
+3860315,3893053,"CAMKK1, CAMKKA","Calcium/calmodulin-dependent protein kinase kinase 1, alpha",,
+3896592,3916465,"P2RX1, P2X1","Purinergic receptor P2X, ligand-gated ion channel, 1",,
+3923873,3964437,"ATP2A3, SERCA3","ATPase, Ca(2+)-transporting, ubiquitous",,
+4004445,4143030,"ZZEF1, KIAA0399",Zinc finger ZZ-type domain- and EF-hand domain-containing protein 1,,
+4163821,4263979,"ANKFY1, ANKHZN, KIAA1255",Ankyrin repeats- and FYVE domain-containing protein 1,,
+4269259,4366675,UBE2G,Ubiquitin-conjugating enzyme E2 G1,,
+4433940,4488204,SPNS3,"Spinster, Drosophila, homolog of, 3",,
+4498881,4539035,"SPNS2, DFNB115",Sphingolipid transporter 2,"?Deafness, autosomal recessive 115, 618457 (3), Autosomal recessive",AR
+4538904,4555384,"MYBBP1A, P160",MYB-binding protein 1A,,
+4556140,4560577,GGT6,Gamma-glutamyltransferase 6,,
+4630919,4641678,ALOX15,Arachidonate 15-lipoxygenase,,
+4669774,4704137,"PELP1, MNAR","Proline-, glutamic acid-, and leucine-rich protein 1",,
+4710632,4721497,ARRB2,"Arrestin, beta 2",,
+4731428,4733607,"MED11, NDDRSB",Mediator complex subunit 11,"Neurodegeneration with developmental delay, early respiratory failure, myoclonic seizures, and brain abnormalities, 620327 (3), Autosomal recessive",AR
+4733533,4739928,CXCL16,CXC chemokine ligand-16,,
+4739833,4746119,"ZMYND15, SPGF14",Zinc finger MYND-containing protein 15,"?Spermatogenic failure 14, 615842 (3), Autosomal recessive",AR
+4771886,4783211,TM4SF5,"Transmembrane 4 superfamily, member 5",,
+4796164,4798495,"PSMB6, LMPY","Proteasome subunit, beta-type, 6",,
+4807152,4823430,PLD2,Phospholipase D2,,
+4833340,4898061,"MINK1, MINK",Misshapen/nik-related kinase 1,,
+4897771,4908677,"CHRNE, SCCMS, CMS4A, CMS4B, CMS4C","Cholinergic receptor, nicotinic, epsilon polypeptide","Myasthenic syndrome, congenital, 4A, slow-channel, 605809 (3), Autosomal recessive, Autosomal dominant; Myasthenic syndrome, congenital, 4C, associated with acetylcholine receptor deficiency, 608931 (3), Autosomal recessive; Myasthenic syndrome, congenital, 4B, fast-channel, 616324 (3), Autosomal recessive",AD/AR
+4932277,4935023,"GP1BA, BSS, BDPLT1, VWDP, BDPLT3","Glycoprotein Ib, platelet, alpha polypeptide","Bernard-Soulier syndrome, type A1 (recessive), 231200 (3), Autosomal recessive; Bernard-Soulier syndrome, type A2 (dominant), 153670 (3), Autosomal dominant; von Willebrand disease, platelet-type, 177820 (3), Autosomal dominant; {Nonarteritic anterior ischemic optic neuropathy, susceptibility to}, 258660 (3), Autosomal recessive",AD/AR
+4937130,4940046,"SLC25A11, SLC20A4, OGC, PPGL6","Solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11","Pheochromocytoma/paraganglioma syndrome 6, 618464 (3), Autosomal dominant",AD
+4940092,4945222,"RNF167, RING105",RING finger protein 167,,
+4945652,4948530,"PFN1, ALS18",Profilin-1,"Amyotrophic lateral sclerosis 18, 614808 (3)",
+4948710,4957129,"ENO3, GSD13","Enolase-3, beta, muscle","Glycogen storage disease XIII, 612932 (3), Autosomal recessive",AR
+4959226,4967817,SPAG7,Sperm-associated antigen 7,,
+4967997,4987675,"CAMTA2, KIAA0909",Calmodulin-binding transcription activator 2,,
+4988130,4997522,"INCA1, HSD45","Inhibitor of CDK, cyclin A1-interacting protein 1",,
+4997950,5028401,"KIF1C, LTXS1, KIAA0706, SPAX2",Kinesin family member 1C,"Spastic ataxia 2, autosomal recessive, 611302 (3), Autosomal recessive",AR
+5032602,5042414,"SLC52A1, GPR172B, GPCR42, PAR2, FLJ10060, RBFVD","Solute carrier family 52, riboflavin transporter, member 1","Riboflavin deficiency, 615026 (3), Autosomal dominant",AD
+5078467,5096374,ZFP3,Zinc finger protein-3,,
+5105734,5123116,"ZNF232, ZSCAN11",Zinc finger protein 232,,
+5116032,5174991,"USP6, TRE2",Ubiquitin-specific protease 6,,
+5208920,5234860,"SCIMP, C17orf87",SLP adaptor- and CSK-interacting membrane protein,,
+5282284,5386340,"RABEP1, RABPT5",RAB GTPase-binding effector protein 1,,
+5384833,5419662,"NUP88, FADS4","Nucleoporin, 88-kD","Fetal akinesia deformation sequence 4, 618393 (3), Autosomal recessive",AR
+5420182,5432877,"RPAIN, RIP",RPA-interacting protein,,
+5432777,5439155,"C1QBP, HABP1, COXPD33",Complement component C1q binding protein (hyaluronic acid-binding protein 1),"Combined oxidative phosphorylation deficiency 33, 617713 (3), Autosomal recessive",AR
+5440917,5468982,DHX33,DEAH-box helicase 33,,
+5471254,5486817,DERL2,"DER1-like domain family, member 2",,
+5486374,5490811,MIS12,MIS12 kinetochore complex component,,
+5501396,5584509,"NLRP1, NALP1, KIAA0926, DEFCAP, CARD7, VAMAS1, MSPC, AIADK, JRRP","NLR family, pyrin domain containing 1","{Vitiligo-associated multiple autoimmune disease susceptibility 1}, 606579 (3); ?Respiratory papillomatosis, juvenile recurrent, congenital, 618803 (3), Autosomal recessive; Autoinflammation with arthritis and dyskeratosis, 617388 (3), Autosomal recessive, Autosomal dominant; Palmoplantar carcinoma, multiple self-healing, 615225 (3), Autosomal dominant",AD/AR
+6069116,6124427,"WSCD1, KIAA0523",WSC domain-containing protein 1,,
+6423738,6435121,"AIPL1, LCA4",Arylhydrocarbon-interacting receptor protein-like 1,"Leber congenital amaurosis 4, 604393 (3), Autosomal recessive, Autosomal dominant; Retinitis pigmentosa, juvenile, 604393 (3), Autosomal recessive, Autosomal dominant; Cone-rod dystrophy, 604393 (3), Autosomal recessive, Autosomal dominant",AD/AR
+6444455,6451469,"PIMREG, RCS1, FAM64A",PICALM-interacting mitotic regulator,,
+6451263,6556555,"PITPNM3, NIR1, CORD5","Phosphatidylinositol transfer protein, membrane-associated, 3","Cone-rod dystrophy 5, 600977 (3), Autosomal dominant",AD
+6500001,10800000,"DEL17p13.1, C17DELp13.1",Chromosome 17p13.1 deletion syndrome,"Chromosome 17p13.1 deletion syndrome, 613776 (4), Autosomal dominant",AD
+6500001,10800000,MGR10,"Migraine with or without aura, susceptibility to, 10","{Migraine with or without aura, susceptibility to, 10}, 610208 (2), Autosomal dominant",AD
+6500001,83257441,"NOS2P1, NOS2C",Nitric oxide synthase 2 pseudogene 1,,
+6578147,6640711,"KIAA0753, OFIP, OFD15, JBTS38, SRTD21",KIAA0753 gene,"?Orofaciodigital syndrome XV, 617127 (3), Autosomal recessive; ?Joubert syndrome 38, 619476 (3), Autosomal recessive; Short-rib thoracic dysplasia 21 without polydactyly, 619479 (3), Autosomal recessive",AR
+6641060,6644541,"TXNDC17, TRP14, TXNL5",Thioredoxin domain-containing protein 17,,
+6643311,6651605,"MED31, SOH1, SEP10",Mediator complex subunit 31,,
+6684719,6713369,"SLC13A5, NACT, DEE25","Solute carrier family 13 (sodium-dependent citrate transporter), member 5","Developmental and epileptic encephalopathy 25, with amelogenesis imperfecta, 615905 (3), Autosomal recessive",AR
+6755447,6775647,XAF1,XIAP-associated factor 1,,
+6776215,6787646,"FBXO39, FBX39",F-box protein 39,,
+6797993,6831729,TEKT1,Tektin 1,,
+6996049,7010754,ALOX12,Arachidonate 12-lipoxygenase,,
+7012624,7014532,RNASEK,Ribonuclease K,,
+7014782,7017520,"C17orf49, BAP18",Chromosome 17 open reading frame 49,,
+7017615,7017701,"MIR195, MIRN195",Micro RNA 195,,
+7017911,7018022,MIR497,Micro RNA 497,,
+7023050,7029644,"BCL6B, BAZF",BCL6B transcription repressor,,
+7041621,7044092,"SLC16A11, MCT11","Solute carrier family 16, member 11",,
+7074537,7080251,"CLEC10A, CLECSF14, MGL, HML, CD301","C-type lectin domain family 10, member A",,
+7101322,7115146,ASGR2,Asialoglycoprotein receptor-2,,
+7173431,7179370,ASGR1,Asialoglycoprotein receptor-1,,
+7187187,7220050,"DLG4, PSD95, SAP90, MRD62",Discs large MAGUK scaffold protein 4,"Intellectual developmental disorder, autosomal dominant 62, 618793 (3), Autosomal dominant",AD
+7217125,7225266,"ACADVL, VLCAD","Acyl-Coenzyme A dehydrogenase, very long chain","VLCAD deficiency, 201475 (3), Autosomal recessive",AR
+7225342,7234517,DVL2,Dishevelled 2,,
+7235038,7240828,PHF23,PHD finger protein 23,,
+7240008,7242449,GABARAP,GABA-A receptor-associated protein,,
+7243591,7251978,"CTDNEP1, DULLARD",C-terminal domain nuclear envelope phosphatase 1,,
+7251724,7259940,"ELP5, DERP6, C17orf81","Elongator acetyltransferase complex, subunit 5",,
+7259903,7263213,CLDN7,Claudin 7,,
+7281718,7288257,"SLC2A4, GLUT4","Solute carrier family 2 (facilitated glucose transporter), member 4",,
+7288263,7294639,"YBX2, MSY2, CSDA3, DBPC",Y box-binding protein 2,,
+7306999,7312463,"EIF5A, FABAS",Eukaryotic translation initiation factor-5A,"Faundes-Banka syndrome, 619376 (3), Autosomal dominant",AD
+7312661,7315360,GPS2,G protein pathway suppressor 2,,
+7315628,7329335,"NEURL4, KIAA1787",Neuralized E3 ubiquitin protein ligase 4,,
+7336529,7351477,"CENTB1, KIAA0050, ACAP1","Centaurin, beta-1",,
+7352162,7354944,"KCTD11, REn",Potassium channel tetramerization domain-containing protein 11,,
+7355156,7357219,TMEM95,Transmembrane protein 95,,
+7380047,7389742,TNK1,"Tyrosine kinase, nonreceptor, 1",,
+7389727,7394525,PLSCR3,Phospholipid scramblase 3,,
+7402975,7404097,"TMEM256, C17orf61",Transmembrane protein 256,,
+7404653,7419860,"NLGN2, KIAA1366",Neuroligin 2,,
+7420324,7421632,"SPEM1, C17orf83",Spermatid maturation protein 1,,
+7435435,7437679,"TMEM102, CBAP",Transmembrane protein 102,,
+7438298,7444937,"FGF11, FHF3",Fibroblast growth factor-11,,
+7445061,7457710,"CHRNB1, ACHRB, SCCMS, CMS2A, CMS2C","Cholinergic receptor, nicotinic, beta polypeptide-1, muscle","?Myasthenic syndrome, congenital, 2C, associated with acetylcholine receptor deficiency, 616314 (3), Autosomal recessive; Myasthenic syndrome, congenital, 2A, slow-channel, 616313 (3), Autosomal dominant",AD/AR
+7459378,7484249,"ZBTB4, KIAA1538",Zinc finger and BTB domain-containing 4,,
+7484366,7514616,"POLR2A, RPOL2, NEDHIB","Polymerase (RNA) II (DNA directed) polypeptide A, 220kD","Neurodevelopmental disorder with hypotonia and variable intellectual and behavioral abnormalities, 618603 (3), Autosomal dominant",AD
+7549058,7557881,"TNFSF12, TWEAK, APO3L, DR3LG","Tumor necrosis factor ligand superfamily, member 12",,
+7558282,7561601,"TNFSF13, APRIL, TALL2","Tumor necrosis factor ligand superfamily, member 13",,
+7561919,7571969,SENP3,"Sentrin-specific protease family, member 3",,
+7572825,7579006,"EIF4A1, DDX2A","Eukaryotic translation initiation factor 4A, isoform 1",,
+7579638,7582111,CD68,Macrophage antigen CD68 (macrosialin),,
+7583647,7588212,"MPDU1, SL15, CDGIF",Mannose-P-dolichol utilization defect 1,"Congenital disorder of glycosylation, type If, 609180 (3), Autosomal recessive",AR
+7588178,7590094,"SOX15, SOX20",SRY (sex-determining region Y)-box 15,,
+7591230,7614897,FXR2,FMR1 autosomal homolog 2,,
+7614064,7633372,"SHBG, ABP",Sex hormone-binding globulin (androgen binding protein),,
+7626234,7627876,"SAT2, SSAT2",Spermidine/spermine N(1)-acetyltransferase 2,,
+7646627,7657770,"ATP1B2, AMOG","ATPase, Na+K+ transporting, beta-2 polypeptide",,
+7668421,7687490,"TP53, P53, LFS1 , BCC7, BMFS5",Tumor protein p53,"{Basal cell carcinoma 7}, 614740 (3), Autosomal dominant; {Adrenocortical carcinoma, pediatric}, 202300 (3), Autosomal dominant; Hepatocellular carcinoma, somatic, 114550 (3); Breast cancer, somatic, 114480 (3); Li-Fraumeni syndrome, 151623 (3), Autosomal dominant; Pancreatic cancer, somatic, 260350 (3); Nasopharyngeal carcinoma, somatic, 607107 (3); {Osteosarcoma}, 259500 (3), Somatic mutation; {Choroid plexus papilloma}, 260500 (3), Autosomal dominant; {Colorectal cancer}, 114500 (3), Somatic mutation, Autosomal dominant; {Glioma susceptibility 1}, 137800 (3), Somatic mutation, Autosomal dominant; Bone marrow failure syndrome 5, 618165 (3), Autosomal dominant",AD
+7686071,7703502,"WRAP53, TCAB1, WDR79, DKCB3",WD repeat-containing protein antisense to TP53,"Dyskeratosis congenita, autosomal recessive 3, 613988 (3), Autosomal recessive",AR
+7705202,7711372,"EFNB3, EPLG8, LERK8, EFL6",Ephrin B3,,
+7717744,7833742,"DNAH2, DNAHC2, SPGF45","Dynein, axonemal, heavy chain-2","Spermatogenic failure 45, 619094 (3), Autosomal recessive",AR
+7834217,7854796,"KDM6B, JMJD3, KIAA0346, NEDCFSA",Lysine demethylase 6B,"Neurodevelopmental disorder with coarse facies and mild distal skeletal abnormalities, 618505 (3), Autosomal dominant",AD
+7855066,7856099,TMEM88,Transmembrane protein 88,,
+7856685,7885420,"NAA38, LSMD1, MAK31","N-alpha-acetyltransferase 38, NatC auxiliary subunit",,
+7884796,7912755,"CHD3, SNIBCPS",Chromodomain helicase DNA binding protein-3,"Snijders Blok-Campeau syndrome, 618205 (3), Autosomal dominant",AD
+7921859,7929856,"KCNAB3, KCNA3B","Potassium voltage-gated channel, shaker-related subfamily, beta member 3",,
+7930345,7931999,"TRAPPC1, MUM2, BET5","Trafficking protein particle complex, subunit 1",,
+7932081,7949920,"CNTROB, LIP8","Centrobin, centriole duplication and spindle assembly protein",,
+8002615,8020342,"GUCY2D, GUC2D, LCA1, CORD6, RCD2, CACD1, CSNB1I","Guanylate cyclase 2D, retinal","Cone-rod dystrophy 6, 601777 (3), Autosomal recessive, Autosomal dominant; ?Choroidal dystrophy, central areolar 1, 215500 (3), Autosomal dominant; Leber congenital amaurosis 1, 204000 (3), Autosomal recessive; Night blindness, congenital stationary, type 1I, 618555 (3), Autosomal recessive",AD/AR
+8039059,8049134,ALOX15B,"Arachidonate 15-lipoxygenase, second type",,
+8072636,8087716,"ALOX12B, ARCI2","Archidonate 12-lipoxygenase, R type","Ichthyosis, congenital, autosomal recessive 2, 242100 (3), Autosomal recessive",AR
+8095900,8118916,"ALOXE3, ARCI3",Arachidonate lipoxygenase 3,"Ichthyosis, congenital, autosomal recessive 3, 606545 (3), Autosomal recessive",AR
+8119155,8119227,"TRNAK1, TRK1, TRK-TTT3-5",Transfer RNA lysine (TTT) 3-5,,
+8119752,8119823,"TRQ-CTG1-5, TRNAQ1, TRQ1",tRNA glutamine (anticodon CTG) 1-5,,
+8120314,8120395,"TRNAL2, TRL2",tRNA leucine-2,,
+8120592,8126634,"HES7, SCDO4",Hes family bHLH transcription factor 7,"Spondylocostal dysostosis 4, autosomal recessive, 613686 (3), Autosomal recessive",AR
+8120925,8121012,"TRR-TCT2-1, TRNAR1, TRR1",tRNA arginine (anticodon TCT) 2-1,,
+8125746,8125816,"TRG-GCC2-6, TRNAG2, TRG2",tRNA glycine (anticodon GCC) 2-6,,
+8140472,8152404,"PER1, PER, RIGUI",Period circadian regulator 1,,
+8159147,8162948,"VAMP2, SYB2, NEDHAHM",Vesicle-associated membrane protein-2 (synaptobrevin-2),"Neurodevelopmental disorder with hypotonia and autistic features with or without hyperkinetic movements, 618760 (3), Autosomal dominant",AD
+8172457,8176380,"TMEM107, MKS13, JBTS29",Transmembrane protein 107,"Orofaciodigital syndrome XVI, 617563 (3), Autosomal recessive; Meckel syndrome 13, 617562 (3), Autosomal recessive; ?Joubert syndrome 29, 617562 (3), Autosomal recessive",AR
+8173452,8173588,"SNORD118, LCC","Small nucleolar RNA,  C/D box, 118","Leukoencephalopathy, brain calcifications, and cysts, 614561 (3), Autosomal recessive",AR
+8188345,8190180,"BORCS6, C17orf59, LYSPERSIN","BLOC1-related complex, subunit 6",,
+8204731,8210575,"STK12, ARK2, AIK2, AIM1",Serine/threonine protein kinase 12,,
+8224815,8248056,"CTC1, CRMCC, C17orf68, AAF132",Conserved telomere maintenance component 1,"Cerebroretinal microangiopathy with calcifications and cysts, 612199 (3), Autosomal recessive",AR
+8247608,8270486,"PFAS, FGARAT",phosphoribosylformylglycinamidine synthase (FGAR amidotransferase),,
+8287763,8295400,SLC25A35,"Solute carrier family 25, member 35",,
+8288670,8290087,"RANGRF, MOG1",RAN guanine nucleotide release factor,,
+8310241,8322511,"ARGEF15, KIAA0915",Rho guanine nucleotide exchange factor 15,,
+8339840,8346046,"ODF4, OPPO1",Outer dense fiber of sperm tails 4,,
+8377516,8383193,"RPL26, DBA11",Ribosomal protein L26,"?Diamond-Blackfan anemia 11, 614900 (3), Autosomal dominant",AD
+8474212,8630725,MYH10,"Myosin, heavy polypeptide-10, non-muscle",,
+8413131,8474328,NUDEL,Nude-like protein (endooligopeptidase A),,
+8747532,8758546,SPDYE4,"Speedy/RINGO cell cycle regulator family, member E4",,
+8802722,8867677,"PIK3R6, C17orf38","Phosphatidylinositol 3-kinase, regulatory subunit 6",,
+8878916,8965707,"PIK3R5, p101","Phosphatidylinositol 3-kinase, regulatory subunit 5","Ataxia-oculomotor apraxia 3, 615217 (3), Autosomal recessive",AR
+9003087,9244000,"NTN1, NTN1L, MRMV4","Netrin 1, mouse, homolog of","Mirror movements 4, 618264 (3), Autosomal dominant",AD
+9250471,9575820,STX8,Syntaxin 8,,
+9576642,9645554,"CFAP52, WDR16, WDRPUH, HTX10",Cilia- and flagella-associated protein 52,"Heterotaxy, visceral, 10, autosomal, with male infertility, 619607 (3), Autosomal recessive",AR
+9771438,9791592,"DHRS7C, SDR32C2","Short-chain dehydrogenase reductase family, member 7C",,
+9825924,9892099,GLP2R,Glucagon-like peptide 2 receptor,,
+9896320,9905271,"RCVRN, RCV1",Recoverin,,
+9910606,10198606,GAS7,Growth arrest-specific 7,,
+10300865,10373006,MYH13,"Myosin, heavy polypeptide 13, skeletal muscle",,
+10390322,10421950,"MYH8, DA7","Myosin, heavy polypeptide-8, skeletal muscle, perinatal","Carney complex variant, 608837 (3); Trismus-pseudocamptodactyly syndrome, 158300 (3), Autosomal dominant",AD
+10443263,10469559,MYH4,"Myosin, heavy polypeptide-4, skeletal muscle",,
+10492307,10518542,MYH1,"Myosin, heavy polypeptide-1, skeletal muscle, adult",,
+10521148,10549658,"MYH2, CMYP6","Myosin, heavy polypeptide-2, skeletal muscle, adult","Congenital myopathy 6 with ophthalmoplegia, 605637 (3), Autosomal recessive, Autosomal dominant",AD/AR
+10628532,10678417,"MYH3, DA2A, DA2B3, DA8, CPSFS1A, CPSFS1B","Myosin, heavy polypeptide-3, skeletal muscle, embryonic","Contractures, pterygia, and spondylocarpostarsal fusion syndrome 1A, 178110 (3), Autosomal dominant; Contractures, pterygia, and spondylocarpotarsal fusion syndrome 1B, 618469 (3), Autosomal recessive; Arthrogryposis, distal, type 2B3 (Sheldon-Hall), 618436 (3), Autosomal dominant; Arthrogryposis, distal, type 2A (Freeman-Sheldon), 193700 (3), Autosomal dominant",AD/AR
+10672474,10697533,"SCO1, SCOD1, MC4DN4",SCO cytochrome c oxidase assembly protein 1,"Mitochondrial complex IV deficiency, nuclear type 4, 619048 (3), Autosomal recessive",AR
+10800001,16100000,AOMS2,Abdominal obesity-metabolic syndrome QTL2,"Abdominal obesity-metabolic syndrome, 605572 (2), Autosomal dominant",AD
+10800001,33500000,DFNB85,"Deafness, autosomal recessive 85","Deafness, autosomal recessive 85, 613392 (2), Autosomal recessive",AR
+10800001,42800000,ECTD6,"Ectodermal dysplasia 6, hair/nail type","Ectodermal dysplasia 6, hair/nail type, 614928 (2), Autosomal recessive",AR
+10800001,22700000,YUHAL,Yuan-Harel-Lupski syndrome,"Yuan-Harel-Lupski syndrome, 616652 (4), Autosomal dominant",AD
+10822470,10838087,PIRT,Phosphoinositide-interacting regulator of transient receptor potential channels,,
+11241213,11564063,SHISA6,"Shisa family, member 6",,
+11598470,11969748,"DNAH9, DNAH17L, DNEL1, CILD40","Dynein, axonemal, heavy chain 9","Ciliary dyskinesia, primary, 40, 618300 (3), Autosomal recessive",AR
+11977439,12021527,"ZNF18, KOX11",Zinc finger protein-18 (KOX11),,
+12020877,12143828,"SERK1, PRKMK4, MAPKK4, JNKK1",SAPK/ERK kinase-1,,
+12665890,12768949,"MYOCD, MGBL",Myocardin,"Megabladder, congenital, 618719 (3), Autosomal dominant",AD
+12789498,12991643,"ARHGAP44, RICH2, KIAA0672",RHO GTPase-activating protein 44,,
+12991612,13018027,"ELAC2, HPC2, COXPD17",elaC ribonuclease Z 2,"{Prostate cancer, hereditary, 2, susceptibility to}, 614731 (3); Combined oxidative phosphorylation deficiency 17, 615440 (3), Autosomal recessive",AR
+13494032,13601929,"HS3ST3A1, 30ST3A1",Heparan sulfate-glucosamine 3-sulfotransferase 3A1,,
+14069504,14208677,"COX10, MC4DN3","Cytochrome c oxidase, subunit X","Mitochondrial complex IV deficiency, nuclear type 3, 619046 (3), Autosomal recessive",AR
+14301081,14349404,"HS3ST3B1, 30ST3B1",Heparan sulfate-glucosamine 3-sulfotransferase 3B1,,
+15229779,15265326,"PMP22, CMT1A, CMT1E, DSS, CIDP",Peripheral myelin protein-22,"Charcot-Marie-Tooth disease, type 1A, 118220 (3), Autosomal dominant; Roussy-Levy syndrome, 180800 (3), Autosomal dominant; Charcot-Marie-Tooth disease, type 1E, 118300 (3), Autosomal dominant; ?Neuropathy, inflammatory demyelinating, 139393 (3), ?Autosomal dominant; Neuropathy, recurrent, with pressure palsies, 162500 (3), Autosomal dominant; Dejerine-Sottas disease, 145900 (3), Autosomal recessive, Autosomal dominant",AD/AR
+15303812,15343671,"TEKT3, SPGF81",Tektin 3,"Spermatogenic failure 81, 620277 (3), Autosomal recessive",AR
+15565482,15619704,"CDRT1, C17orf1A",CMT1A duplicated region transcript 1,,
+15627966,15684311,"TRIM16, EBBP",Tripartite motif-containing protein 16,,
+15675476,15675643,ZNF29P,"Zinc finger protein 29, pseudogene",,
+15850362,15975746,ADORA2B,Adenosine A2b receptor,,
+15976560,15999704,"ZSWIM7, SWS1, SPGF71, ODG10",Zinc finger SWIM domain-containing protein 7,"Spermatogenic failure 71, 619831 (3), Autosomal recessive; ?Ovarian dysgenesis 10, 619834 (3), Autosomal recessive",AR
+15999824,16045015,"TTC19, MC3DN2",Tetratricopeptide repeat domain 19,"Mitochondrial complex III deficiency, nuclear type 2, 615157 (3), Autosomal recessive",AR
+16029157,16215534,NCOR1,Nuclear receptor corepressor 1,,
+16100001,25100000,ADHD2,"Attention deficit-hyperactivity disorder, susceptibility to, 2","{Attention deficit-hyperactivity disorder, susceptibility to, 2}, 608904 (2)",
+16100001,22700000,"IS2, AIS2","Scoliosis, idiopathic 2","Scoliosis, idiopathic 2, 607354 (2)",
+16100001,22700000,PTLS,Potocki-Lupski syndrome,"Potocki-Lupski syndrome, 610883 (4), Isolated cases",
+16217210,16326411,"PIGL, CHIME","Phosphatidylinositol glycan, class L","CHIME syndrome, 280000 (3), Autosomal recessive",AR
+16342537,16353469,"CENPV, P30",Centromere protein V,,
+16380779,16382745,UBB,Ubiquitin B,,
+16415571,16437003,"TRPV2, VRL1","Transient receptor potential cation channel, subfamily V, member 2",,
+16666717,16777881,"CCDC144A, KIAA0565",Coiled-coil domain-containing protein 144A,,
+16939081,16972118,"TNFRSF13B, TACI, CVID2","Tumor necrosis factor receptor superfamily, member 13B","Immunodeficiency, common variable, 2, 240500 (3), Autosomal recessive, Autosomal dominant; Immunoglobulin A deficiency 2, 609529 (3)",AD/AR
+17042457,17192643,"MPRIP, MRIP, KIAA0864, RIP3, P116RIP",Myosin phosphatase Rho-interacting protein,,
+17200995,17206333,"PLD6, ZUC","Phospholipase D family, member 6",,
+17212212,17237330,"FLCN, BHD",Folliculin,"Birt-Hogg-Dube syndrome, 135150 (3), Autosomal dominant; Colorectal cancer, somatic, 114500 (3); Pneumothorax, primary spontaneous, 173600 (3), Autosomal dominant; Renal carcinoma, chromophobe, somatic, 144700 (3)",AD
+17246616,17281246,"COPS3, SGN3","COP9 signalosome, subunit 3",,
+17303373,17347663,"NT5M, DNT2","Deoxyribonucleotidase, mitochondrial (5' nucleotidase, mitochondrial)",,
+17477000,17493221,"MED9, MED25, FLJ10193","Mediator of RNA polymerase II transcription, subunit 9, S. cerevisiae, homolog of",,
+17494437,17496395,"RASD1, DEXRAS1","Ras protein, dexamethasone-induced, 1",,
+17505563,17592142,"PEMT, PEMPT",Phosphatidylethanolamine N-methyltransferase,,
+17681458,17811453,"RAI1, SMCR, SMS",Retinoic acid-induced gene 1,"Smith-Magenis syndrome, 182290 (3), Isolated cases, Autosomal dominant",AD
+17811334,17836986,"SREBF1, IFAP2, HMD",Sterol regulatory element binding transcription factor 1,"Ichthyosis, follicular, with atrichia and photophobia syndrome 2, 619016 (3), Autosomal dominant; Mucoepithelial dysplasia, hereditary, 158310 (3), Autosomal dominant",AD
+17813836,17813931,"MIR33B, MIRN33B",Micro RNA 33B,,
+17843511,17972400,TOM1L2,Target of MYB1-like 2 membrane trafficking protein,,
+17972813,18016889,"DRC3, LRRC48, CFAP134",Dynein regulatory complex subunit 3,,
+18015059,18039168,"ATPAF2, ATP12, MC5DN1","ATP synthase, mitochondrial F1 complex, assembly factor 2","?Mitochondrial complex V (ATP synthase) deficiency, nuclear type 1, 604273 (3), Autosomal recessive",AR
+18039408,18068405,"GID4, VID2, C17orf39","GID complex, subunit 4",,
+18087948,18107969,DRG2,Developmentally regulated GTP-binding protein 2,,
+18108756,18179800,"MYO15A, DFNB3",Myosin XVA,"Deafness, autosomal recessive 3, 600316 (3), Autosomal recessive",AR
+18183828,18209954,"ALKBH5, ABH5","AlkB homolog 5, RNA demethylase",,
+18225635,18244875,"LLGL1, DLG4",LLGL scribble cell polarity complex component 1,,
+18244815,18259022,"FLII, CMD2J",FLII actin remodeling protein,"Cardiomyopathy, dilated, 2J, 620635 (3), Autosomal recessive",AR
+18260662,18266552,"MEIF2, SMCR7, MID49, COXPD49",Mitochondrial elongation factor 2,"?Combined oxidative phosphorylation deficiency 49, 619024 (3), Autosomal recessive",AR
+18271428,18314994,"TOP3A, MGRISCE2, PEOB5","Topoisomerase (DNA) III, alpha","?Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 5, 618098 (3), Autosomal recessive; Microcephaly, growth restriction, and increased sister chromatid exchange 2, 618097 (3), Autosomal recessive",AR
+18315293,18328056,SMCR8,"Smith-Magenis syndrome chromosome region, candidate gene 8",,
+18327873,18363550,SHMT1,Serine hydroxymethyltransferase (soluble),,
+18497090,18503285,"NOS2P2, NOS2B",Nitric oxide synthase 2 pseudogene 2,,
+18667629,18682314,FOXO3B,Forkhead box O3B,,
+18744054,18779349,FBXW10,F-box and WD40 domain protein 10,,
+18856299,18931287,"PRPSAP2, PAP41",Phosphoribosylpyrophosphate synthetase-associated protein 2,,
+18950676,19022565,"SLC5A10, SGLT5","Solute carrier family 5 (sodium/glucose cotransporter), member 10",,
+18968789,19006116,"FAM83G, PAWS1","Family with sequence similarity 83, member G",,
+19020656,19051373,"GRAP, DFNB114",GRB2-related adaptor protein,"Deafness, autosomal recessive 114, 618456 (3), Autosomal recessive",AR
+19188016,19188232,RNU3,"RNA, U3 small nuclear",,
+19334695,19377913,"B9D1, MKSR1, MKS9, JBTS27",B9 domain-containing protein 1,"?Meckel syndrome 9, 614209 (3), Autosomal recessive; Joubert syndrome 27, 617120 (3), Autosomal recessive",AR
+19237366,19336715,"EPN2, KIAA1065",Epsin 2,,
+19377750,19383544,"MAPK7, PRKM7, ERK5",Mitogen-activated protein kinase 7 (extracellular signal-regulated kinase 5),,
+19383445,19387190,MFAP4,Microfibrillar-associated protein-4,,
+19411232,19417276,"RNF112, ZNF179, BFP",RING finger protein 112,,
+19533854,19579034,"SLC47A1, MATE1, FLJ10847","Solute carrier family 47, member 1",,
+19648136,19677596,"ALDH3A2, ALDH10, SLS, FALDH","Aldehyde dehydrogenase 3 family, member A2 (fatty aldehyde dehydrogenase)","Sjogren-Larsson syndrome, 270200 (3), Autosomal recessive",AR
+19678317,19718979,"SLC47A2, MATE2, FLJ31196, MATE2K","Solute carrier family 47, member 2",,
+19737984,19748298,"ALDH3A1, ALDH3","Aldehyde dehydrogenase 3 family, member A1",,
+19770830,19867936,"ULK2, KIAA0623, UNC51.2",UNC51-like kinase 2,,
+19904302,19977828,AKAP10,A-kinase anchor protein 10,,
+20009359,20319026,"SPECC1, HCMOGT1, NSP",Sperm antigen with calponin homology and coiled-coil domains 1,,
+20999596,21043419,"USP22, KIAA1064",Ubiquitin-specific protease 22,,
+21126964,21191420,"DHRS7B, SDR32C1","Short-chain dehydrogenase reductase family, member 7B",,
+21197954,21214161,TMEM11,Transmembrane protein 11,,
+21284711,21315240,"PRKMK3, MAPKK3, MEK3","Protein kinase, mitogen-activated, kinase-3",,
+21376357,21419870,"KCNJ12, KCNJN1","Potassium inwardly-rectifying channel, subfamily J, member 12",,
+21692523,21704612,"KCNJ18, KIR2.6, TTPP2","Potassium channel, inwardly rectifying, subfamily J, member 18","{Thyrotoxic periodic paralysis, susceptibility to, 2}, 613239 (3), Autosomal dominant",AD
+22406019,22413741,"PRG4, FLJ36000",p53-responsive gene 4,,
+22523415,22524663,"MTRNR2L1, HN1",MTRNR2-like 1,,
+25100001,33500000,AUTS6,"Autism, susceptibility to, 6","{Autism susceptibility 6}, 609378 (2)",
+25100001,33500000,"ERVE1, HERVE1","Endogenous retroviral sequence E, 1",,
+25100001,83257441,HYT1,"Hypertension, essential, susceptibility to, 1","{Hypertension, essential, susceptibility to, 1}, 145500 (2), Multifactorial",
+27294114,27315926,"WSB1, SWIP1",WD repeat- and SOCS box-containing protein 1,,
+27400001,33500000,"CCL3L1, SCYA3L1, LD78","Chemokine, C-C motif, ligand 3-like 1","{HIV/AIDS, susceptibility to}, 609423 (3)",
+27400001,33500000,"DEL17q11.2, C17DELq11.2","Chromosome 17q11.2 deletion syndrome, 1.4Mb (NF1 microdeletion syndrome)","Chromosome 17q11.2 deletion syndrome, 1.4Mb, 613675 (4), Autosomal dominant",AD
+27400001,33500000,"DUP17q11.2, C17DUPq11.2","Chromosome 17q11.2 duplication syndrome, 1.4-Mb","Chromosome 17q11.2 duplication syndrome, 1.4-Mb, 618874 (4), Isolated cases, Autosomal dominant",AD
+27400001,72900000,MHS2,Malignant hyperthermia susceptibility 2,"{Malignant hyperthermia susceptibility 2}, 154275 (2), Autosomal dominant",AD
+27400001,33500000,MPVQTL3,Mean platelet volume quantitative trait locus 3,"[Mean platelet volume QTL3], 612575 (2)",
+27456448,27626435,"KSR, KSR1",Kinase suppressor of RAS,,
+27631188,27649560,LGALS9,"Lectin, galactoside-binding, soluble, 9",,
+27756766,27800529,"NOS2A, NOS2",Nitric oxide synthase 2A,"{Malaria, resistance to}, 611162 (3)",
+28042677,28206074,NLK,NEMO-like kinase,,
+28226563,28228060,PYY2,"Peptide YY, 2",,
+28247444,28248289,PPY2,Pancreatic polypeptide 2,,
+28319200,28328685,"TMEM97, MAC30",Transmembrane protein 97,,
+28328326,28335472,IFT20,Intraflagellar transport 20,,
+28335761,28347009,TNFAIP1,"Tumor necrosis factor, alpha-induced protein-1 (endothelial)",,
+28346633,28357527,"POLDIP2, PDIP38",Polymerase delta-interacting protein 2,,
+28357647,28363683,"TMEM199, VMA12, VPH2, C17orf32, CDG2P",Transmembrane protein 199,"Congenital disorder of glycosylation, type IIp, 616829 (3), Autosomal recessive",AR
+28363506,28365199,"SEBOX, OG9","Skin-, embryo-, brain-, and oocyte-specific homeobox",,
+28367284,28370307,"VTN, VNT","Vitronectin (serum spreading factor, somatomedin B, complement S-protein)",,
+28371694,28404049,"SARM, KIAA0524",Sterile alpha and heat/armadillo motifs-containing protein,,
+28394642,28406592,"SLC46A1, HCP1, PCFT","Solute carrier family 46 (folate transporter), member 1","Folate malabsorption, hereditary, 229050 (3), Autosomal recessive",AR
+28473644,28497781,"SLC13A2, NADC1","Solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",,
+28506348,28538900,"FOXN1, WHN, TIDAND, TLIND",Forkhead box N1 (winged helix nude),"T-cell lymphopenia, infantile, with or without nail dystrophy, autosomal dominant, 618806 (3), Autosomal dominant; T-cell immunodeficiency, congenital alopecia, and nail dystrophy, 601705 (3), Autosomal recessive",AD/AR
+28546707,28552628,"UNC119, HRG4, IMD13, CORD24",unc-119 lipid binding chaperone,"Cone-rod dystrophy 24, 620342 (3), Autosomal dominant; ?Immunodeficiency 13, 615518 (3), Autosomal dominant",AD
+28553387,28571524,"PIGS, GPIBD18, DEE95","Phosphatidylinositol glycan, class S","Developmental and epileptic encephalopathy 95, 618143 (3), Autosomal recessive",AR
+28573120,28576895,ALDOC,"Aldolase C, fructose-bisphosphatase",,
+28577574,28599025,"SPAG5, MAP126, ASTRIN",Sperm-associated antigen 5,,
+28614440,28645159,"KIAA0100, BCOX1",KIAA0100 gene,,
+28648346,28662194,SDF2,Stromal cell-derived factor-2,,
+28662205,28702679,SUPT6H,"SPT6 homolog, histone chaperone and transcription elongation factor",,
+28703197,28711888,PROCA1,Proline-rich cyclin A1-interacting protein,,
+28714281,28718428,"RAB34, RAH",Ras-associated protein 34,,
+28719985,28724359,RPL23A,Ribosomal protein L23a,,
+28728788,28743455,"NEK8, JCK, NPHP9, RHPD2",NIMA-related kinase 8,"Renal-hepatic-pancreatic dysplasia 2, 615415 (3), Autosomal recessive; ?Nephronophthisis 9, 613824 (3)",AR
+28744011,28750956,"TRAF4, MLN62, CART1",TNF receptor-associated factor 4,,
+28855016,28861061,"ERAL1, ERAL1A, ERAL1B, PRLTS6",ERA G-protein-like 1,"Perrault syndrome 6, 617565 (3), Autosomal recessive",AR
+28861369,28861440,"MIR451, MIRN451",Micro RNA 451,,
+28861533,28861618,"MIR144, MIRN144",Micro RNA 144,,
+28879339,28897733,"FLOT2, M17S1, ECS1, ESA1",Flotillin 2 (epidermal surface antigen 1),,
+28897781,28903079,"DHRS13, SDR7C5","Short-chain dehydrogenase reductase family, member 13",,
+28905250,28951518,"PHF12, PF1",PHD finger protein 12,,
+28954905,29006440,"SEZ6, BSRPC","Seizure-related 6, mouse, homolog of",,
+29043141,29057216,PIPOX,Pipecolic acid oxidase,,
+29071122,29180398,"MYO18A, SPR210",Myosin XVIIIA,,
+29071122,29180398,"TIAF1, MYO18A, MYSPDZ, MAJN, SPR210, KIAA0216",TGFB1-induced antiapoptotic factor 1,,
+29246859,29254494,"CRYBA1, CRYB1, CTRCT10","Crystallin, beta A1","Cataract 10, multiple types, 600881 (3), Autosomal dominant",AD
+29255839,29294148,"NUFIP2, KIAA1321, PIG1",Nuclear FMR1 interacting protein 2,,
+29390363,29551903,"TAOK1, PSK2, TAO1, MARKK, DDIB",TAO kinase 1,"Developmental delay with or without intellectual impairment or behavioral abnormalities, 619575 (3), Autosomal dominant",AD
+29560547,29567037,ABHD15,Abhydrolase domain-containing protein 15,,
+29573475,29589648,GIT1,GIT ArfGap 1,,
+29593132,29614761,ANKRD13B,Ankyrin repeat domain-containing protein 13B,,
+29625938,29930228,"SSH2, KIAA1725","Slingshot, Drosophila, homolog of, 2",,
+30116816,30186475,"NSRP1, NSRP70, CCDC55, NEDSSBA",Nuclear speckle splicing regulatory protein 1,"Neurodevelopmental disorder with spasticity, seizures, and brain abnormalities, 620001 (3), Autosomal recessive",AR
+30194319,30235697,"SLC6A4, HTT, OCD1","Solute carrier family 6 (neurotransmitter transporter, serotonin), member 4","{Obsessive-compulsive disorder}, 164230 (3), Autosomal dominant; {Anxiety-related personality traits}, 607834 (3)",AD
+30248203,30291944,"BLMH, BMH",Bleomycin hydrolase,,
+30378927,30469989,CPD,Carboxypeptidase D,,
+30477408,30527592,"GOSR1, GOS28, GS28",Golgi snap receptor complex member 1,,
+30782684,30824692,"CRLF3, CYTOR4, CRLM9, CREME9",Cytokine receptor-like factor 3,,
+30831966,30895869,"ATAD5, C17orf41, FRAG1, FLJ12735","ATPase family, AAA domain containing 5",,
+30898986,30906238,"TEFM, C17orf42, COXPD58","Transcription elongation factor, mitochondrial","Combined oxidative phosphorylation deficiency 58, 620451 (3), Autosomal recessive",AR
+30921945,30959322,"ADAP2, CENTA2",ArfGAP with dual PH domains 2,,
+30958921,30999911,RNF135,Ring finger protein 135,,
+31094927,31377677,"NF1, VRNF, WSS, NFNS","Neurofibromin (neurofibromatosis, type I)","Watson syndrome, 193520 (3), Autosomal dominant; Leukemia, juvenile myelomonocytic, 607785 (3), Somatic mutation, Autosomal dominant; Neurofibromatosis, familial spinal, 162210 (3), Autosomal dominant; Neurofibromatosis, type 1, 162200 (3), Autosomal dominant; Neurofibromatosis-Noonan syndrome, 601321 (3), Autosomal dominant",AD
+31294647,31297239,"OMG, OMGP",Oligodendrocyte-myelin glycoprotein,,
+31303770,31314054,"EVI2B, EVDB",Ecotropic viral integration site 2B,,
+31316410,31321622,"EVI2A, EVI2, EVDA",Ecotropic viral integration site 2A,,
+31391675,31538211,"RAB11FIP4, KIAA1821",RAB11 family-interacting protein 4,,
+31559996,31560083,MIR193A,Micro RNA 193A,,
+31937007,32001038,"SUZ12, JJAZ1, KIAA0160, IMMAS",SUZ12 polycomb repressive complex 2 subunit,"Imagawa-Matsumoto syndrome, 618786 (3), Autosomal dominant",AD
+32007383,32053487,LRRC37B,Leucine-rich repeat-containing protein 37B,,
+32142502,32225727,"RHOT1, MIRO1, ARHT1","Ras homolog gene family, member T1",,
+32265832,32324661,"RHBDL3, VRHO",Rhomboid-like 3,,
+32350157,32381885,ZNF207,Zinc finger protein-207,,
+32444510,32483319,"PSMD11, S9","Proteasome 26S subunit, non-ATPase, 11",,
+32486993,32491253,"CDK5R1, p35","Cyclin-dependent kinase 5, regulatory subunit 1",,
+32492522,32877124,"MYO1D, KIAA0727",Myosin ID,,
+32928153,32944315,"TMEM98, NNO4",Transmembrane protein 98,"Nanophthalmos 4, 615972 (3), Autosomal dominant",AD
+32991847,32997877,"SPACA3, LYZL3, SLLP1, LYC3, ALLP17",Sperm acrosome-associated 3,,
+33013087,34156768,"ACCN1, BNC1, MDEG","Amiloride-sensitive cation channel 1, neuronal (degenerin)",,
+33500001,39800000,"CCL3P1, CCL3L2","Chemokine, CC motif, ligane 3, pseudogene 1",,
+33500001,39800000,"CCL4L, SCYA4L, LAG1","Chemokine, C-C motif, ligand 4-like",,
+33500001,39800000,"DEL17q12, C17DELq12",Chromosome 17q12 deletion syndrome,"Chromosome 17q12 deletion syndrome, 614527 (4), Autosomal dominant",AD
+33500001,39800000,"DUP17q12, C17DUPq12",Chromosome 17q12 duplication syndrome,"Chromosome 17q12 duplication syndrome, 614526 (4), Autosomal dominant",AD
+33500001,39800000,HPC11,"Prostate cancer, hereditary, 11","{Prostate cancer, hereditary, 11}, 611955 (2)",
+33500001,39800000,PBC5,"Biliary cirrhosis, primary, 5","Biliary cirrhosis, primary, 5, 614221 (2)",
+33500001,52100000,WT4,Wilms tumor-4,"Wilms tumor, type 4, 601363 (2), Autosomal dominant",AD
+34255285,34257203,"CCL2, SCYA2, MCP1, MCAF","Small inducible cytokine A2 (monocyte chemotactic protein, homologous to mouse Sig-je)","{Mycobacterium tuberculosis, susceptibility to}, 607948 (3); {HIV-1, resistance to}, 609423 (3); {Coronary artery disease, modifier of} (3); {Spina bifida, susceptibility to}, 182940 (3), Autosomal dominant",AD
+34270221,34272242,"CCL7, SCYA7, MCP3","Chemokine, C-C motif, ligand 5",,
+34285742,34288334,"CCL11, SCYA11","Chemokine, C-C motif, ligand 11","{Asthma, susceptibility to}, 600807 (3), Autosomal dominant; {HIV1, resistance to}, 609423 (3)",AD
+34319435,34321402,"CCL8, SCYA8","Chemokine, C-C motif, ligand 8",,
+34356480,34358610,"CCL13, SCYA13, NCC1","Chemokine, C-C motif, ligand 13",,
+34360328,34363233,"CCL1, SCYA1","Chemokine, C-C motif, ligand 1",,
+34579582,34639318,"TMEM132E, DFNB99",Transmembrane protein 132E,"Deafness, autosomal recessive 99, 618481 (3), Autosomal recessive",AR
+34927861,34961460,"CCT6B, CCTZ2","Chaperonin containing T-complex polypeptide 1, subunit 6B",,
+34980512,35010872,"LIG3, MTDPS20","Ligase III, DNA, ATP-dependent","Mitochondrial DNA depletion syndrome 20 (MNGIE type), 619780 (3), Autosomal recessive",AR
+35005990,35089226,RFFL,Ring finger and FYVE-like domain containing 1 (rififylin),,
+35092221,35119860,"RAD51D, RAD51L3, BROVCA4",RAD51 paralog D,"{Breast-ovarian cancer, familial, susceptibility to, 4}, 614291 (3)",
+35147817,35189345,"UNC45B, SMUNC45, CTRCT43, MFM11",unc-45 myosin chaperone B,"?Cataract 43, 616279 (3), Autosomal dominant; Myofibrillar myopathy 11, 619178 (3), Autosomal recessive",AD/AR
+35243072,35273655,SLFN5,"Schlafen family, member 5",,
+35350305,35373621,SLFN11,"Schlafen family, member 11",,
+35410922,35433174,SLFN12,"Schlafen family, member 12",,
+35435096,35449766,SLFN13,"Schlafen family, member 13",,
+35464254,35537678,SLFN12L,"Schlafen family, member 12-like",,
+35543985,35560819,"SLFN14, BDPLT20","Schlafen family, member 14","Bleeding disorder, platelet-type, 20, 616913 (3), Autosomal dominant",AD
+35574795,35578571,"PEX12, PBD3A",Peroxisome biogenesis factor 12,"Peroxisome biogenesis disorder 3B, 266510 (3), Autosomal recessive; Peroxisome biogenesis disorder 3A (Zellweger), 614859 (3), Autosomal recessive",AR
+35587322,35726413,"AP2B1, CLAPB1, ADTB2","Adaptor-related protein complex 2, beta 1 subunit",,
+35731639,35743521,"RASL10B, RRP17","Ras-like, family 10, member B",,
+35744511,35753239,"GAS2L2, GAR17, CILD41",Growth arrest-specific 2-like 2,"?Ciliary dyskinesia, primary, 41, 618449 (3), Autosomal recessive",AR
+35756249,35795641,MMP28,Matrix metalloproteinase 28,,
+35809484,35847242,"TAF15, TAF2N, RBP56","TAF15 RNA polymerase II, TATA box-binding protein-associated factor, 68kD","Chondrosarcoma, extraskeletal myxoid, 612237 (1)",
+35871491,35880360,"CCL5, SCYA5, D17S136E, TCP228","Chemokine, C-C motif, ligand 5","{HIV-1 disease, rapid progression of}, 609423 (3); {HIV-1 disease, delayed progression of}, 609423 (3)",
+35918080,35930773,RDM1,RAD52 motif-containing protein 1,,
+35934518,35943713,LYZL6,Lysozyme-like 6,,
+35976499,35981497,"CCL16, SCYA16, NCC4","Chemokine, C-C motif, ligand 16",,
+35983288,35986729,"CCL14, SCYA14, NCC2","Chemokine, C-C motif, ligand 14",,
+35997582,36001553,"CCL15, SCYA15, NCC3, LKN1","Chemokine, C-C motif, ligand 15",,
+36013058,36017972,"CCL23, SCYA23","Chemokine, C-C motif, ligand 23",,
+36064272,36072032,"CCL18, SCYA18, PARC, AMAC1, DCCK1","Chemokine, C-C motif, ligand 18",,
+36088256,36090143,"CCL3, SCYA3, MIP1A","Chemokine, C-C motif, ligand 3","{HIV infection, resistance to}, 609423 (2)",
+36103827,36105614,"CCL4, SCYA4, ACT2, MIP1B, AT744.1","Chemokine, C-C motif, ligand 4",,
+36165683,36176636,"TBC1D3B, PRC17","TBC1 domain family, member 3B",,
+36194869,36196758,CCL3L3,"Chemokine, CC motif, ligand 3-like 3",,
+36211063,36212873,CCL4L2,"Chemokine, CC motif, ligand 4-like 2",,
+36315397,36334759,TBC1D3G,"TBC1 domain family, member 3G",,
+36377531,36388453,TBC1D3H,"TBC1 domain family, member 3H",,
+36428612,36439521,TBC1D3F,"TBC1 domain family, member 3F",,
+36486681,36499312,"ZNHIT3, TRIP3, PEHO",Zinc finger HIT domain-containing protein 3,"PEHO syndrome, 260565 (3), Autosomal recessive",AR
+36495636,36544815,"MYO19, MYOHD1",Myosin XIX,,
+36534987,36539303,"PIGW, HPMRS5","Phosphatidylinositol glycan, class W","Glycosylphosphatidylinositol biosynthesis defect 11, 616025 (3), Autosomal recessive",AR
+36544919,36589848,"GGNBP2, DIF3, LCRG1, LZK1",Gametogenetin-binding protein 2,,
+36591879,36600804,"DHRS11, SDR24C1","Short-chain dehydrogenase reductase family, member 11",,
+36601583,36634698,MRM1,Mitochondrial ribosomal RNA methyltransferase 1,,
+36936785,36944612,"LHX1, LIM1",LIM/homeodomain protein LHX1,,
+36948954,37056871,"AATF, CHE1",Apoptosis-antagonizing transcription factor,,
+37084992,37406836,"ACACA, ACAC, ACC1, ACACAD","Acetyl-Coenzyme A carboxylase, alpha","Acetyl-CoA carboxylase deficiency, 613933 (1), Autosomal recessive",AR
+37406886,37479725,"TADA2A, TADA2L, ADA2A",Transcriptional adaptor 2A,,
+37488566,37513498,"DUSP14, MKP6",Dual-specificity phosphatase 14,,
+37514807,37609418,"SYNRG, AP1GBP1, SYNG","Synergin, gamma",,
+37609739,37643446,"DDX52, ROK1, HUSSY19",DExD-box helicase 52,,
+37686431,37745059,"HNF1B, TCF2, HNF2, RCAD, T2D, ADTKD3",HNF1 homeobox B (transcription factor 2),"Type 2 diabetes mellitus, 125853 (3), Autosomal dominant; Renal cysts and diabetes syndrome, 137920 (3), Autosomal dominant; {Renal cell carcinoma}, 144700 (3)",AD
+38002322,38014908,TBC1D3D,"TBC1 domain family, member 3D",,
+38057693,38070301,TBC1D3C,"TBC1 domain family, member 3C",,
+38124106,38138868,TBC1D3E,"TBC1 domain family, member 3E",,
+38181659,38192555,"TBC1D3, PRC17, TBC1D3A",TBC1D3 gene,,
+38297168,38323211,MRPL45,Mitochondrial ribosomal protein L45,,
+38324571,38343956,"GPR179, GPR158L, GPR158L1, CSNB1E",G protein-coupled receptor 179,"Night blindness, congenital stationary (complete), 1E, autosomal recessive, 614565 (3), Autosomal recessive",AR
+38351844,38405593,"SOCS7, NAP4",Suppressor of cytokine signaling 7,,
+38419275,38512385,"ARHGAP23, KIAA1501",RHO GTPase-activating protein 23,,
+38530031,38607025,"SRCIN1, SNIP, KIAA1684",Src kinase signaling inhibitor 1,,
+38671703,38674957,"EPOP, C17orf96",Elongin BC- and polycomb repressive complex 2-associated protein,,
+38705273,38729795,"MLLT6, AF17","Myeloid/lymphoid or mixed-lineage leukemia, translocated to, 6",,
+38730341,38735605,"CISD3, MINER2",CDGSH iron sulfur domain protein 3,,
+38733898,38749792,"PCGF2, RNF110, ZNF144, MEL18, TPFS",Polycomb group ring finger 2,"Turnpenny-Fry syndrome, 618371 (3), Autosomal dominant",AD
+38752741,38764225,PSMB3,"Proteasome subunit, beta type, 3",,
+38765691,38799556,"PIP4K2B, PIP5P4KB, PIP5K2B","Phosphatidylinositol 5-phosphate 4-kinase, type II, beta",,
+38847860,38853721,RPL23,Ribosomal protein L23,,
+38870058,38921770,"LASP1, MLN50",LIM and SH3 protein 1,,
+38925614,38929381,LINC00672,Long intergenic noncoding RNA 672,,
+38936432,38967403,FBXO47,F-box only protein 47,,
+39063313,39152967,"PLXDC1, TEM7",Plexin domain containing 1,,
+39173453,39197669,"CACNB1, CACNLB1, CCHLB1","Calcium channel, voltage-dependent, beta 1 subunit",,
+39200283,39204732,RPL19,Ribosomal protein L19,,
+39252663,39402556,"FBXL20, FBL20, FBL2, SCR",F-box and leucine-rich repeat protein 20,,
+39404285,39451263,"MED1, PPARBP, PBP, TRAP220",Mediator complex subunit 1 (peroxisome proliferator-activated receptor-binding protein),,
+39461486,39567559,"CDK12, CRKRS, CRK7, KIAA0904",Cyclin-dependent kinase 12,,
+39603768,39607920,"NEUROD2, DEE72",Neurogenic differentiation 2,"Developmental and epileptic encephalopathy 72, 618374 (3), Autosomal dominant",AD
+39626707,39636624,"PPP1R1B, DARPP32","Protein phosphatase 1, regulatory subunit 1B",,
+39637144,39664201,"STARD3, MLN64",Start domain-containing protein 3,,
+39665349,39666554,"TCAP, LGMDR7, CMH25",Telethonin,"Cardiomyopathy, hypertrophic, 25, 607487 (3), Autosomal dominant; Muscular dystrophy, limb-girdle, autosomal recessive 7, 601954 (3), Autosomal recessive",AD/AR
+39668019,39670475,"PNMT, PENT",Phenylethanolamine N-methyltransferase,,
+39671122,39688057,"PGAP3, PERLD1, CAB2, MGC9753, HPMRS4",Post-GPI attachment to proteins 3,"Hyperphosphatasia with impaired intellectual development syndrome 4, 615716 (3), Autosomal recessive",AR
+39688094,39728658,"ERBB2, NGL, NEU, HER2, VSCN2",Avian erythroblastic leukemia viral (v-erb-b2) oncogene homolog 2 (neuro/glioblastoma derived oncogene homolog),"Gastric cancer, somatic, 613659 (3); Adenocarcinoma of lung, somatic, 211980 (3); Ovarian cancer, somatic, 167000 (3); ?Visceral neuropathy, familial, 2, autosomal recessive, 619465 (3), Autosomal recessive; Glioblastoma, somatic, 137800 (3)",AR
+39728510,39730532,"MIEN1, C17orf37, RDX12",Migration and invasion enhancer 1,,
+39737938,39747285,GRB7,Growth factor receptor-bound protein 7,,
+39757715,39864312,"IKZF3, ZNFN1A3, AIOLOS, IMD84",Ikaros family zinc finger 3,"?Immunodeficiency 84, 619437 (3), Autosomal dominant",AD
+39800001,52100000,ASRT6,"Asthma-related traits, susceptibility to, 6","{Asthma-related traits, susceptibility to, 6}, 611403 (2)",
+39800001,52100000,AUTS7,"Autism, susceptibility to, 7","{Autism susceptibility 7}, 610676 (2)",
+39800001,59500000,HPC9,"Prostate cancer, hereditary, 9","{Prostate cancer, hereditary, 9}, 610997 (2)",
+39800001,59500000,MYP5,Myopia 5,"Myopia 5, 608474 (2), Autosomal dominant",AD
+39800001,59500000,"PTLAH, FPAH",Patella aplasia or hypoplasia,"Patella aplasia or hypoplasia, 168860 (2), Autosomal dominant",AD
+39868202,39877896,"ZPBP2, ZPBPL",Zona pellucida-binding protein 2,,
+39904595,39918635,"GSDMB, GSDML",Gasdermin B,,
+39921041,39927601,ORMDL3,ORM1-like protein 3,,
+39963004,39977768,"GSDMA, GSDM1, GSDM",Gasdermin A,,
+39980807,39997959,"PSMD3, RPN3","Proteasome 26S subunit, non-ATPase, 3",,
+40015440,40017813,"CSF3, GCSF",Colony-stimulating factor-3 (granulocyte),,
+40019104,40054408,"MED24, TRAP100, KIAA0130",Mediator complex subunit 24,,
+40062193,40093867,"THRA, ERBA1, THRA1, CHNG6","Thyroid hormone receptor, alpha (oncogene ERBA1)","Hypothyroidism, congenital, nongoitrous, 6, 614450 (3), Autosomal dominant",AD
+40092793,40100589,"NR1D1, THRAL, EAR1","Nuclear receptor 1, subfamily D, member 1 (thyroid hormone receptor, alpha-1-like)",,
+40121971,40136917,MSL1,MSL complex subunit 1,,
+40140537,40172171,"MLN51, CASC3",MLN51 gene,,
+40200001,42800000,IBD22,Inflammatory bowel disease 22,"{Inflammatory bowel disease 22}, 612380 (2)",
+40219304,40284136,"WIRE, WICH",WASP-interacting protein-related protein,,
+40287879,40304657,"CDC6, CDC18L, MGORS5",Cell division cycle 6,"?Meier-Gorlin syndrome 5, 613805 (3), Autosomal recessive",AR
+40309180,40357643,RARA,"Retinoic acid receptor, alpha polypeptide","Leukemia, acute promyelocytic, 612376 (1)",
+40360652,40364737,"GJD3, GJC1, CX31.9","Gap junction protein, delta-3 (31.9kD)",,
+40388525,40417896,"TOP2A, TOP2","Topoisomerase (DNA) II, alpha, 170kD","DNA topoisomerase II, resistance to inhibition of, by amsacrine (3)",
+40443450,40457725,IGFBP4,Insulin-like growth factor-binding protein-4,,
+40475834,40501623,"TNS4, CTEN",Tensin 4,,
+40553769,40565472,"CCR7, CMKBR7, EBI1",Chemokine (C-C) receptor 7 (Epstein-Barr virus induced gene 1),,
+40624962,40647818,"SMARCE1, BAF57, CSS5","SWI/SNF-related, matrix-associated, actin-dependent regulator of chromatin, subfamily E, member 1","{Meningioma, familial, susceptibility to}, 607174 (3), Autosomal dominant; Coffin-Siris syndrome 5, 616938 (3), Autosomal dominant",AD
+40697991,40703752,"KRT24, FLJ20261",Keratin 24,,
+40748021,40755542,"KRT25, K25, KRT24IRS1, ARWH3","Keratin 25, type I","Woolly hair, autosomal recessive 3, 616760 (3), Autosomal recessive",AR
+40766238,40772201,"KRT26, K25, K25B, K25IRS2","Keratin 26, type I",,
+40776808,40782550,"KRT27, KRT25C, K25IRS3","Keratin 27, type I",,
+40792196,40799959,"KRT28, K25D, K25IRS4","Keratin 28, type I",,
+40818117,40822614,"KRT10, EHK2, BCIE, BIE, IHL",Keratin 10,"Ichthyosis, annular epidermolytic 1, 607602 (3), Autosomal dominant; Epidermolytic hyperkeratosis 2, 620150 (3), Autosomal recessive, Autosomal dominant; ?Ichthyosis histrix, Lambert type, 146600 (3), Autosomal dominant; Ichthyosis with confetti, 609165 (3), Autosomal dominant",AD/AR
+40861303,40867223,"KRT12, MECD1",Keratin 12,"Meesmann corneal dystrophy 1, 122100 (3), Autosomal dominant",AD
+40875889,40885242,"KRT20, CD20, KRT21",Keratin 20,,
+40922700,40937646,KRT23,Keratin 23,,
+40958417,40966948,KRT39,"Keratin 38, type I",,
+40977715,40987135,"KRT40, KA36","Keratin 40, type I",,
+41026026,41027208,"KRTAP-15, KAP1.5",Keratin-associated protein 1-5,,
+41029351,41030195,"KRTAP1-4, KAP1.4",Keratin-associated protein 1-4,,
+41033884,41034874,"KRTAP1-3, KAP1.3, KAP1.2, KAP1.9",Keratin-associated protein 1-3,,
+41040541,41041450,"KRTAP1-1, KAP1.1, KAP1.7, KAP1.6",Keratin-associated protein 1-1,,
+41346092,41350828,"KRT33A, KRTHA3A, HA3I",Keratin 33A,,
+41363498,41369813,"KRT33B, KRTHA3A, HA3II",Keratin 33B,,
+41377669,41383816,"KRT34, KRTHA4, HA4",Keratin 34,,
+41393721,41397608,"KRT31, KRTHA1, HA1",Keratin 31,,
+41420547,41424585,"KRT37, KRTHA7, HA7",Keratin 37,,
+41436154,41440983,"KRT38,  KRTHA8, HA8",Keratin 38,,
+41459513,41467386,"KRT32, KRTHA2, HA2",Keratin 32,,
+41476710,41481151,"KRT35, KRTHA5",Keratin 35,,
+41486136,41489910,"KRT36, KRTHA6, HA6",Keratin 36,,
+41500981,41505612,"KRT13, WSN2",Keratin 13,"White sponge nevus 2, 615785 (3), Autosomal dominant",AD
+41513745,41518890,KRT15,Keratin 15,,
+41523617,41528308,KRT19,Keratin 19,,
+41549606,41554495,LINC00974,Long intergenic noncoding RNA 974,,
+41565836,41572059,"KRT9, EPPK1",Keratin 9,"Palmoplantar keratoderma, epidermolytic, 1, 144200 (3), Autosomal dominant",AD
+41582279,41586895,"KRT14, EBS1A, EBS1B, EBS1C, EBS1D",Keratin 14,"Epidermolysis bullosa simplex 1D, generalized, intermediate or severe, autosomal recessive, 601001 (3), Autosomal recessive; Epidermolysis bullosa simplex 1C, localized, 131800 (3), Autosomal dominant; Dermatopathia pigmentosa reticularis, 125595 (3), Autosomal dominant; Epidermolysis bullosa simplex 1A, generalized severe, 131760 (3), Autosomal dominant; Naegeli-Franceschetti-Jadassohn syndrome, 161000 (3), Autosomal dominant; Epidermolysis bullosa simplex 1B, generalized intermediate, 131900 (3), Autosomal dominant",AD/AR
+41609778,41612767,"KRT16, FNEPPK, PC1",Keratin 16,"Palmoplantar keratoderma, nonepidermolytic, focal, 613000 (3), Autosomal dominant; Pachyonychia congenita 1, 167200 (3), Autosomal dominant",AD
+41619442,41624575,"KRT17, PC2, PCHC1",Keratin 17,"Steatocystoma multiplex, 184500 (3), Autosomal dominant; Pachyonychia congenita 2, 167210 (3), Autosomal dominant",AD
+41688885,41692668,"EIF1, SUI1, A121",Eukaryotic translation initiation factor 1,,
+41712331,41715969,"GAST, GAS",Gastrin,,
+41717739,41734646,"HAP1, HLP, HAP2",Huntingtin-associated protein 1 (neuroan 1),,
+41754609,41786711,"JUP, DP3, PDGB, ARVD12",Junction plakoglobin,"Naxos disease, 601214 (3), Autosomal recessive; ?Arrhythmogenic right ventricular dysplasia 12, 611528 (3), Autosomal dominant",AD/AR
+41801953,41811949,"P3H4, SC65, LEPREL4",Proyly 3-hydroxylase 4,,
+41813004,41823213,"FKBP10, FKBP65, OI11, BRKS1",FK506-binding protein 10,"Osteogenesis imperfecta, type XI, 610968 (3), Autosomal recessive; Bruck syndrome 1, 259450 (3), Autosomal recessive",AR
+41825057,41836232,"NT5C3B, NT5C3L, CNIIIL","5'-nucleotidase, cytosolic IIIb",,
+41835685,41848384,"KLHL10, SPGF11",Kelch-like 10,"Spermatogenic failure 11, 615081 (3), Autosomal dominant",AD
+41848518,41865423,KLHL11,"Kelch-like family, member 11",,
+41866917,41930545,ACLY,ATP citrate lyase,,
+41930617,41966503,"ODAD4, TTC25, CILD35",Outer dynein arm docking complex subunit 4,"Ciliary dyskinesia, primary, 35, 617092 (3), Autosomal recessive",AR
+41966795,41977740,"CNP, CNP1, HLD20","2', 3' cyclic nucleotide 3' phosphohydrolase","?Leukodystrophy, hypomyelinating, 20, 619071 (3), Autosomal recessive",AR
+41976435,42017439,"DANJC7, TTC2, TPR2","DnaJ, E. coli, homolog of, subfamily C, member 7 (tetratricopeptide repeat domain 2)",,
+42017576,42025641,"NKIRAS2, KBRAS2",NFKB inhibitor-interacting Ras-like protein 2,,
+42101411,42112714,"DHX58, LGP2, D11LGP2",DExH-box helicase 58,,
+42113111,42121367,"KAT2A, GCN5L2, GCN5",K(lysine) acetyltransferase 2A,,
+42122804,42123352,HSPB9,Heat-shock 27kD protein 9,,
+42124979,42154989,"RAB5C, RABL",Ras-associated protein RAB5c,,
+42156891,42181142,"KCNH4, BEC2","Potassium channel, voltage-gated, subfamily H, member 4",,
+42184060,42185452,"HCRT, OX, NRCLP1",Hypocretin,"?Narcolepsy 1, 161400 (3), Autosomal dominant",AD
+42189087,42194494,"GHDC, LGP1",GH3 domain-containing protein,,
+42199177,42288370,"STAT5B, GHISID2",Signal transducer and activator of transcription 5B,"Growth hormone insensitivity with immune dysregulation 1, autosomal recessive, 245590 (3), Autosomal recessive; Growth hormone insensitivity with immune dysregulation 2, autosomal dominant, 618985 (3), Autosomal dominant; Leukemia, acute promyelocytic, somatic, 102578 (3)",AD/AR
+42287439,42311943,"STAT5A, STAT5, MGF",Signal transducer and activator of transcription 5a,,
+42313324,42388442,"STAT3, APRF, HIES, ADMIO1",Signal transducer and activator of transcription-3 (acute-phase response factor),"Hyper-IgE syndrome 1, autosomal dominant, with recurrent infections, 147060 (3), Autosomal dominant; Autoimmune disease, multisystem, infantile-onset, 1, 615952 (3), Autosomal dominant",AD
+42402449,42423256,"CAVIN1, PTRF",Caveolae-associated protein 1,"Lipodystrophy, congenital generalized, type 4, 613327 (3), Autosomal recessive",AR
+42458878,42522579,"ATP6V0A1, ATP6N1A, VPP1, DEE104, NEDEBA","ATPase, H+ transporting, V0 subunit A1","Neurodevelopmental disorder with epilepsy and brain atrophy, 619971 (3), Autosomal recessive; Developmental and epileptic encephalopathy 104, 619970 (3), Autosomal dominant",AD/AR
+42536241,42544449,"NAGLU, MPS3B, CMT2V","N-acetylglucosaminidase, alpha-","?Charcot-Marie-Tooth disease, axonal, type 2V, 616491 (3), Autosomal dominant; Mucopolysaccharidosis type IIIB (Sanfilippo B), 252920 (3), Autosomal recessive",AD/AR
+42552923,42555214,"HSD17B1, EDH17B2",Estradiol 17-beta-dehydrogenase-1,,
+42562148,42566277,"COASY, NBIA6, PCH12",Coenzyme A synthase,"Pontocerebellar hypoplasia, type 12, 618266 (3), Autosomal recessive; Neurodegeneration with brain iron accumulation 6, 615643 (3), Autosomal recessive",AR
+42567100,42573203,"MLX, TCFL4",MAX-like protein X,,
+42572310,42577831,"PSMC3IP, TBPIP, GT198, HOP2, ODG3",PSMC3-interacting protein,"Ovarian dysgenesis 3, 614324 (3), Autosomal recessive",AR
+42579508,42609427,FAM134C,"Family with sequence similarity 134, member C",,
+42609683,42615238,"TUBG1, CDCBM4","Tubulin, gamma 1","Cortical dysplasia, complex, with other brain malformations 4, 615412 (3), Autosomal dominant",AD
+42659284,42667006,TUBG2,"Tubulin, gamma 2",,
+42678889,42681843,"CCR10, GPR2",Chemokine (C-C) receptor 10,,
+42682531,42699993,"CNTNAP1, CASPR, P190, CHN3",Contactin-associated protein 1,"Lethal congenital contracture syndrome 7, 616286 (3), Autosomal recessive; Hypomyelinating neuropathy, congenital, 3, 618186 (3), Autosomal recessive",AR
+42700275,42745040,EZH1,"Enhancer of zeste, Drosophila, homolog of, 1",,
+42761227,42763041,RAMP2,Receptor activity-modifying protein 2,,
+42773449,42779599,"VPS25, FAP20",Vacuolar protein sorting 25 homolog,,
+42780610,42797066,"WNK4, PRKWNK4, PHA2B",WNK lysine deficient protein kinase 4,"Pseudohypoaldosteronism, type IIB, 614491 (3), Autosomal dominant",AD
+42797625,42798704,"COA3, CCDC56, MC4DN14",Cytochrome c oxidase assembly factor 3,"?Mitochondrial complex IV deficiency, nuclear type 14, 619058 (3), Autosomal recessive",AR
+42798785,42811587,"CNTD1, COSA1",Cyclin N-terminal domain-containing protein 1,,
+42800001,46800000,"DUP17q21.31, C17DUPq21.31",Chromosome 17q21.31 duplication syndrome,"Chromosome 17q21.31 duplication syndrome, 613533 (4)",
+42800001,52100000,ERDA1,"Expanded repeat domain, CAG/CTG, 1",,
+42800001,59500000,MRT35,"Intellectual developmental disorder, autosomal recessive 35","Intellectual developmental disorder, autosomal recessive 35, 615162 (2), Autosomal recessive",AR
+42800001,46800000,VBCH,Van Buchem disease,"van Buchem disease, 239100 (4), Autosomal recessive",AR
+42810132,42824282,BECN1,Beclin 1,,
+42833397,42843760,"PSME3, PA28G",Proteasome activator subunit 3,,
+42844580,42850707,"AOC2, RAO","Amine oxidase, copper-containing, 2",,
+42851199,42858124,"AOC3, HPAO, VAP1","Amine oxidase, copper-containing 3",,
+42900799,42914438,"G6PC, G6PT","Glucose-6-phosphatase, catalytic","Glycogen storage disease Ia, 232200 (3), Autosomal recessive",AR
+42950526,42964454,AARSD1,Alanyl-tRNA synthetase domain-containing 1,,
+42980565,42995142,"RUNDC1, RUND1",RUN domain-containing protein 1,,
+42998273,43002959,"RPL27, DBA16",Ribosomal protein L27,"?Diamond-Blackfan anemia 16, 617408 (3), Autosomal dominant",AD
+43006784,43014456,IFI35,Interferon-induced protein-35,,
+43014607,43022385,VAT1,Vesicle amine transport protein 1,,
+43025231,43032041,"RND2, ARHN, RHO7","Ras homolog gene family, member N (GTP-binding protein Rho7)",,
+43044295,43170327,"BRCA1, PSCP, BROVCA1, PNCA4, FANCS",BRCA1 DNA repair-associated protein,"Fanconi anemia, complementation group S, 617883 (3), Autosomal recessive; {Breast-ovarian cancer, familial, 1}, 604370 (3), Multifactorial, Autosomal dominant; {Pancreatic cancer, susceptibility to, 4}, 614320 (3)",AD/AR
+43125557,43153671,NBR2,"Neighbor of BRCA1 gene 2, noncoding",,
+43170409,43211688,"NBR1, M17S2",NBR1 autophagy cargo receptor,,
+43233790,43233977,"RNU2-1, RNU2","RNA, U2 small nuclear, 1",,
+43398993,43401137,"ARL4D, ARF4L",ADP ribosylation factor-like GTPase 4D,,
+43483975,43544799,"DHX8, DDX8, HRH1",DEAH-box helicase 8,,
+43527846,43546340,ETV4,ETS variant transcription factor 4,,
+43640389,43661922,"MEOX1, MOX1, KFS2",Mesenchyme homeobox 1,"Klippel-Feil syndrome 2, 214300 (3), Autosomal recessive",AR
+43753738,43758791,"SOST, VBCH, CDD, SOST1",Sclerostin,"Sclerosteosis 1, 269500 (3), Autosomal recessive; Craniodiaphyseal dysplasia, autosomal dominant, 122860 (3), Autosomal dominant",AD/AR
+43766125,43778977,"DUSP3, VHR",Dual specificity phosphatase-3 (vaccinia virus phosphatase VH1-related),,
+43780435,43787620,CFAP97D1,CFAP97 domain-containing protein 1,,
+43800811,43833146,"MPP3, DLG3","Membrane protein, palmitoylated-3 (MAGUK p55 subfamily member 3)",,
+43847176,43863639,"CD300LG, TREM4, CLM9","CD300 antigen-like family, member G",,
+43875360,43909711,"MPP2, DLG2","Membrane protein, palmitoylated-2 (MAGUK p55 subfamily member 2)",,
+43940804,43944215,PPY,Pancreatic polypeptide,,
+43952733,44004445,PYY,Peptide YY,,
+44004622,44009068,NAGS,N-acetylglutamate synthase,"N-acetylglutamate synthase deficiency, 237310 (3), Autosomal recessive",AR
+44034328,44067587,LSM12,"LSM12, S. cerevisiae, homolog of",,
+44070673,44076344,"G6PC3, UGRP, SCN4","Glucose-6-phosphatase, catalytic, 3","Dursun syndrome, 612541 (3), Autosomal recessive; Neutropenia, severe congenital 4, autosomal recessive, 612541 (3), Autosomal recessive",AR
+44076753,44123641,HDAC5,Histone deacetylase 5,,
+44141930,44162476,"HROB, MCM8IP, C17orf53",Homologous recombination factor with OB-fold,,
+44170704,44179084,ASB16,Ankyrin repeat- and SOCS box-containing protein 16,,
+44191805,44199884,"ATXN7L3, SGF11",ATNX7-like 3,,
+44205040,44221304,"UBTF, UBF, CONDBA","Upstream binding transcription factor, RNA polymerase I","Neurodegeneration, childhood-onset, with brain atrophy, 617672 (3), Autosomal dominant",AD
+44226963,44230072,"SHC1P2, SHCL1",SHC adaptor protein 1 pseudogene 2,,
+44248390,44268135,"SLC4A1, AE1, EPB3, SPH4, SAO, CHC","Solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)","[Blood group, Swann], 601550 (3); [Blood group, Wright], 112050 (3); Distal renal tubular acidosis 1, 179800 (3), Autosomal dominant; [Blood group, Waldner], 112010 (3); Spherocytosis, type 4, 612653 (3), Autosomal dominant; [Blood group, Froese], 601551 (3); Distal renal tubular acidosis 4 with hemolytic anemia, 611590 (3), Autosomal recessive; {Malaria, resistance to}, 611162 (3); Cryohydrocytosis, 185020 (3), Autosomal dominant; Ovalocytosis, SA type, 166900 (3), Autosomal dominant; [Blood group, Diego], 110500 (3)",AD/AR
+44308601,44318670,"RUNDC3A, RPIP8",RUN domain contain 3A,,
+44319628,44324823,"SLC25A39, CGI69","Solute carrier family 25, member 39",,
+44345302,44353106,"GRN, CLN11",Granulin,"Aphasia, primary progressive, 607485 (3), Autosomal dominant; Frontotemporal lobar degeneration with ubiquitin-positive inclusions, 607485 (3), Autosomal dominant; Ceroid lipofuscinosis, neuronal, 11, 614706 (3), Autosomal recessive",AD/AR
+44372181,44389649,"ITGA2B, GP2B, CD41B, GT1, BDPLT2, BDPLT16","Integrin, alpha-2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41B)","Thrombocytopenia, neonatal alloimmune, BAK antigen related (3); Glanzmann thrombasthenia 1, 273800 (3), Autosomal recessive; Bleeding disorder, platelet-type, 16, autosomal dominant, 187800 (3), Autosomal dominant",AD/AR
+44395281,44503406,"GPATCH8, KIAA0553",G-patch domain-containing protein 8,,
+44557484,44561262,"FZD2, OMOD2",Frizzled class receptor 2,"Omodysplasia 2, 164745 (3), Autosomal dominant",AD
+44656468,44677087,"MEIOC, C17orf104",Meiosis-specific protein with coiled-coil domain,,
+44708665,44752264,"DBF4B, DRF1, ASKL1","DBF4, S. cerevisiae, homolog of, B",,
+44758988,44781846,"ADAM11, MDC",ADAM metallopeptidase domain 11,,
+44794104,44831364,"GJC1, GJA7, CX45","Gap junction protein, gamma-1",,
+44844860,44850476,HIGD1B,"HIG1 hypoxia-inducible domain family, member 1B",,
+44849948,44899445,"EFTUD2, KIAA0031, MFDGA",Elongation factor Tu GTP-binding domain-containing 2,"Mandibulofacial dysostosis, Guion-Almeida type, 610536 (3), Autosomal dominant",AD
+44899729,44905390,"CCDC103, SMH, PR46B, CILD17",Coiled-coil domain-containing protein 103,"Ciliary dyskinesia, primary, 17, 614679 (3), Autosomal recessive",AR
+44903159,44915500,"GFAP, ALXDRD",Glial fibrillary acidic protein,"Alexander disease, 203450 (3), Autosomal dominant",AD
+44924711,44947773,KIF18B,Kinesin family member 18B,,
+44959693,44968303,"C1QL1, CRF, C1QRF","Complement component 1, q subcomponent-like 1",,
+45061317,45109016,"NMT1, NMT",N-myristoyltransferase 1,,
+45108959,45132515,PLCD3,"Phospholipase C, delta-3",,
+45131597,45144176,ACBD4,Acyl-CoA-binding domain-containing protein 4,,
+45148475,45152099,"CLP1, HIS1",Cardiac lineage protein 1,,
+45160174,45170040,HEXIM2,Hexamethylene bis acetamide-inducible protein 2,,
+45221885,45247318,"FMNL, C17orf1B",Formin-like,,
+45263119,45317020,"MAP3K14, NIK, HSNIK, IMD112",Mitogen-activated protein kinase kinase kinase-14,"Immunodeficiency 112, 620449 (3), Autosomal recessive",AR
+45393908,45432870,"ARHGAP27, CAMGAP1",RHO GTPase-activating protein 27,,
+45434209,45490721,"PLEKHM1, AP162, KIAA0356, OPTB6, OPTA3","Pleckstrin homology domain-containing protein, family M, member 1","?Osteopetrosis, autosomal recessive 6, 611497 (3), Autosomal recessive; Osteopetrosis, autosomal dominant 3, 618107 (3), Autosomal dominant",AD/AR
+45784320,45835828,"CRHR1, CRHR",Corticotropin releasing hormone receptor 1,,
+45844881,45847067,IMP5,Intramembrane protease 5,,
+45894554,46028334,"MAPT, MTBT1, DDPAC, MSTD",Microtubule-associated protein tau,"Supranuclear palsy, progressive, 601104 (3), Autosomal dominant; Supranuclear palsy, progressive atypical, 260540 (3), Autosomal recessive; Dementia, frontotemporal, with or without parkinsonism, 600274 (3), Autosomal dominant; {Parkinson disease, susceptibility to}, 168600 (3), Multifactorial, Autosomal dominant; Pick disease, 172700 (3), Autosomal dominant",AD/AR
+45999250,45999694,STH,Saitohin,,
+46029916,46225367,"KANSL1, KIAA1267, MSL1V1, KDVS",KAT8 regulatory NSL complex subunit 1,"Koolen-De Vries syndrome, 610443 (3), Autosomal dominant",AD
+46248044,46337794,LRRC37A,Leucine-rich repeat-containing protein 37A,,
+46372792,47049128,LRRC37A2,Leucine-rich repeat-containing protein 37A2,,
+46590669,46757464,"NSF, DEE96",N-ethylmaleimide-sensitive factor,"Developmental and epileptic encephalopathy 96, 619340 (3), Autosomal dominant",AD
+46762506,46818692,"WNT3, INT4, TETAMS","Wingless-type MMTV integration site family, member 3","?Tetra-amelia syndrome 1, 273395 (3), Autosomal recessive",AR
+46833189,46886738,WNT15,"Wingless-type MMTV integration site family, member 15",,
+46923160,46975890,"GOSR2, GS27, EPM6, MYOS",Golgi snap receptor complex member 2,"Epilepsy, progressive myoclonic 6, 614018 (3), Autosomal recessive; Muscular dystrophy, congenital, with or without seizures, 620166 (3), Autosomal recessive",AR
+47117703,47189295,CDC27,Cell division cycle 27,,
+47189433,47227650,MYL4,"Myosin, light polypeptide-4, alkali, atrial, embryonic","?Atrial fibrillation, familial, 18, 617280 (3), Autosomal dominant",AD
+47253827,47313743,"ITGB3, GP3A, GT2, BDPLT24","Integrin, beta-3 (platelet glycoprotein IIIa; antigen CD61)","Bleeding disorder, platelet-type, 24, autosomal dominant, 619271 (3); Thrombocytopenia, neonatal alloimmune (3); Purpura, posttransfusion (3); {Myocardial infarction, susceptibility to}, 608446 (3); Glanzmann thrombasthenia 2, 619267 (3), Autosomal recessive",AD/AR
+47522933,47623276,"NPEPPS, PSA, MP100","Aminopeptidase, puromycin-sensitive",,
+47649919,47685505,KPNB1,Karyopherin beta-1,,
+47694063,47712063,"TBKBP1, PROSAPIP2, KIAA0775",TBK1-binding protein 1,,
+47733236,47746122,"TBX21, TBET, IMD88",T-box 21,"Asthma and nasal polyps, 208550 (3), Autosomal recessive; ?Immunodeficiency 88, 619630 (3), Autosomal recessive; {Asthma, aspirin-induced, susceptibility to}, 208550 (3), Autosomal recessive",AR
+47807372,47821794,"OSBPL7, ORP7",Oxysterol-binding protein-like protein 7,,
+47823272,47831541,"MRPL10, MRPL8",Mitochondrial ribosomal protein L10,,
+47837692,47841273,"SCRN2, SES2",Secernin 2,,
+47844908,47876311,"SP6, KLF14, EPFN, AI1K",Transcription factor Sp6,"Amelogenesis imperfecta, type IK, 620104 (3), Autosomal dominant",AD
+47896236,47931731,SP2,Transcription factor Sp2,,
+47941571,47949308,PNPO,Pyridoxamine 5'-phosphate oxidase,"Pyridoxamine 5'-phosphate oxidase deficiency, 610090 (3), Autosomal recessive",AR
+47967904,47981781,CDK5RAP3,CDK5 regulatory subunit-associated protein 3,,
+48026167,48048053,COPZ2,"Coatomer protein complex, subunit zeta-2",,
+48037161,48037247,"MIR152, MIRN152",Micro RNA 152,,
+48048359,48061545,"NFE2L1, NRF1","Nuclear factor, erythroid-derived 2-like 1",,
+48070059,48101478,CBX1,Chromobox 1,,
+48107523,48123601,SNX11,Sorting nexin 11,,
+48133442,48445061,"SKAP1, SCAP1, SKAP55","SRC kinase-associated phosphoprotein 1, 55kD",,
+48528526,48531011,"HOXB1, HOX2I, HCFP3",Homeobox-B1,"Facial paresis, hereditary congenital, 3, 614744 (3), Autosomal recessive",AR
+48542655,48545109,"HOXB2, HOX2H",Homeobox B2,,
+48544351,48551241,"HOXBAS1, HOXB3OS","Homeobox B cluster antisense RNA 1, noncoding",,
+48548870,48590241,"HOXB3, HOX2G",Homeobox B3,,
+48575507,48578350,"HOXB4, HOX2F",Homeobox B4,,
+48579838,48579947,MIR10A,Micro RNA 10A,,
+48591257,48593779,"HOXB5, HOX2A",Homeobox B5,,
+48595751,48604986,"HOXB6, HOX2B",Homeobox B6,,
+48607232,48611017,"HOXB7, HOX2C",Homeobox B7,,
+48612346,48615292,"HOXB8, HOX2D",Homeobox B8,,
+48621156,48626358,"HOXB9, HOX2E",Homeobox B9,,
+48632490,48632559,"MIR196A1, MIRN196A1",Micro RNA 196A1,,
+48718666,48724758,"PRAC2, HOXBAS5",PRAC2 small nuclear protein,,
+48721719,48722518,PRAC1,PRAC1 small nuclear protein,,
+48724763,48728750,"HOXB13, HPC9",Homeobox B13,"{Prostate cancer, hereditary, 9}, 610997 (3)",
+48762234,48817229,TTLL6,Tubulin tyrosine ligase-like 6,,
+48831035,48865245,"CALCOCO2, NDP52",Calcium binding and coiled-coil domain protein 2,,
+48892787,48895871,ATP5G1,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C, isoform 1",,
+48908407,48929056,"UBE2Z, USE1",Ubiquitin-conjugating enzyme E2 Z,,
+48929316,48944842,"SNF8, VPS22, EAP30",SNF8 subunit of ESCRIT-II,,
+48958554,48968596,GIP,Gastric inhibitory polypeptide,,
+48996558,49056145,"IGF2BP1, IMP1, CRDBP, ZBP1",Insulin-like growth factor 2 mRNA-binding protein 1,,
+49120344,49176840,"B4GALGT2, GALGT2, SD, SDA","Beta-1,4-N-acetyl-galactosaminyl transferase 2","[Blood group, Sid system], 615018 (3); Sd(a) polyagglutination syndrome, 615018 (3)",
+49192528,49192599,"TRQ-TTG1-1, TRNAQ2, TRQ2",tRNA glutamine (anticodon TTG) 1-1,,
+49206234,49210574,GNGT2,"Guanine nucleotide-binding protein, gamma-transducing activity polypeptide 2",,
+49210707,49223225,NESH,NESH protein,,
+49288117,49362473,"ZNF652, KIAA0924",Zinc finger protein 652,,
+49404052,49414882,PHB1,Prohibitin 1,"{Breast cancer, susceptibility to}, 114480 (3), Somatic mutation, Autosomal dominant",AD
+49495293,49515008,"NGFR, TNFRSF16",Nerve growth factor receptor,,
+49575871,49583827,"NXPH3, NPH3",Neuroexophilin 3,,
+49598884,49678163,"SPOP, NSDVS1, NSDVS2",Speckle-type POZ protein,"Nabais Sa-de Vries syndrome, type 1, 618828 (3), Autosomal dominant; Nabais Sa-de Vries syndrome, type 2, 618829 (3), Autosomal dominant",AD
+49700943,49708197,"SLC35B1, UGTREL1","Solute carrier family 35, member B1",,
+49788681,49835026,"KAT7, MYST2, HBO1",K(lysine) acetyltransferase 7,,
+49838300,49848069,"RAC4, PPTC, HK1",Tachykinin 4,,
+49968572,49974959,"DLX4, DLX7, DLX8, OFC15",Distal-less homeobox 4,"?Orofacial cleft 15, 616788 (3), Autosomal dominant",AD
+49990005,49995224,"DLX3, TDO, AI4",Distal-less homeobox 3,"Trichodontoosseous syndrome, 190320 (3), Autosomal dominant; Amelogenesis imperfecta, type IV, 104510 (3), Autosomal dominant",AD
+50056110,50090481,"ITGA3, CD49C, GAPB3, JEB7","Integrin, alpha-3","Epidermolysis bullosa, junctional 7, with interstitial lung disease and nephrotic syndrome, 614748 (3), Autosomal recessive",AR
+50094737,50112152,PDK2,"Pyruvate dehydrogenase kinase, isoenzyme 2",,
+50110040,50130160,SAMD14,Sterile alpha motif domain-containing protein 14,,
+50133737,50150677,"PPP1R9B, SPINO","Protein phosphatase 1, regulatory subunit 9B",,
+50166005,50175928,"SGCA, ADL, DAG2, LGMDR3","Sarcoglycan, alpha (50kD dystrophin-associated glycoprotein; adhalin)","Muscular dystrophy, limb-girdle, autosomal recessive 3, 608099 (3), Autosomal recessive",AR
+50171428,50172476,HILS1,Spermatid-specific linker histone H1-like protein,,
+50184101,50201631,"COL1A1, OI1, OI2, OI3, OI4, EDSARTH1, CAFYD","Collagen I, alpha-1 polypeptide","Osteogenesis imperfecta, type II, 166210 (3), Autosomal dominant; Caffey disease, 114000 (3), Autosomal dominant; Ehlers-Danlos syndrome, arthrochalasia type, 1, 130060 (3), Autosomal dominant; Osteogenesis imperfecta, type I, 166200 (3), Autosomal dominant; {Bone mineral density variation QTL, osteoporosis}, 166710 (3), Autosomal dominant; Combined osteogenesis imperfecta and Ehlers-Danlos syndrome 1, 619115 (3), Autosomal dominant; Osteogenesis imperfecta, type IV, 166220 (3), Autosomal dominant; Osteogenesis imperfecta, type III, 259420 (3), Autosomal dominant",AD
+50271406,50281485,TMEM92,Transmembrane protein 92,,
+50346126,50361185,"XYLT2, XT2, SOS",Xylosyltransferase 2,"{Pseudoxanthoma elasticum, modifier of severity of}, 264800 (3), Autosomal recessive; Spondyloocular syndrome, 605822 (3), Autosomal recessive",AR
+50367867,50373184,MRPL27,Mitochondrial ribosomal protein L27,,
+50373229,50381483,EME1,Essential meiotic structure-specific endonuclease 1,,
+50381238,50397523,"LRRC59, p34",Leucine-rich repeat-containing protein 59,,
+50426218,50474845,"ACSF2, FLJ20920",Acyl-CoA synthetase family member 2,,
+50464496,50468880,CHAD,Chondroadherin,,
+50478860,50485974,RSAD1,Radical S-adenosyl methionine domain-containing protein 1,,
+50507778,50531501,"MYCBPAP, AMAP1",MYCBP-associated protein,,
+50532735,50543750,EPN3,Epsin 3,,
+50547174,50555852,"SPATA20, SSP411",Spermatogenesis-associated protein 20,,
+50560715,50627474,"CACNA1G, SCA42, SCA42ND","Calcium channel, voltage-dependent, T type, alpha-1G subunit","Spinocerebellar ataxia 42, 616795 (3), Autosomal dominant; Spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits, 618087 (3), Autosomal dominant",AD
+50634881,50692253,"ABCC3, CMOAT2, MRP3, MLP2","ATP-binding cassette, sub-family C, member 3",,
+50719603,50756219,"LUC7L3, CROP, LUC7A",LUC7-like 3 pre-mRNA splicing factor,,
+50834584,50842353,"WFIKKN2, WFIKKNRP","WAP, fillistatin, immunoglobulin, Kunitz, and NTR domains-containing protein 2",,
+50862223,50867978,"TOB1, TOB","Transducer of ERBB2, 1",,
+50962174,51120868,"SPAG9, SYD1, KIAA0516",Sperm-associated antigen 9,,
+51153559,51162168,"NME1, NM23",NME/NM23 nucleoside diphosphate kinase 1,,
+51165536,51171744,NME2,NME/NM23 nucleoside diphosphate kinase 2,,
+51177425,51260958,MBTD1,MBT domain-containing protein 1,,
+51260546,51297933,UTP18,UTP18 small subunit processome component,,
+51630313,52160023,"CA10, CARPX",Carbonic anhydrase X,,
+52100001,59500000,BCL5,B-cell CLL/lymphoma-5,,
+53822927,53825193,KIF2B,Kinesin family member 2B,,
+54900852,54961956,TOM1L1,Target of MYB1-like 1 membrane trafficking protein,,
+54951902,54968785,"COX11, MC4DN23","Cytochrome c oxidase, subunit 11","Mitochondrial complex IV deficiency, nuclear type 23, 620275 (3), Autosomal recessive",AR
+54968765,55213273,"STXBP4, SYNIP",Syntaxin-binding protein 4,,
+55264960,55325187,HLF,Hepatic leukemia factor,,
+55392622,55421835,"MMD, MMD1, PAQR11",Monocyte-to-macrophage differentiation-associated protein,,
+55719627,55732081,TMEM100,Transmembrane protein 100,,
+55751051,55852715,PCTP,Phosphatidylcholine transfer protein,,
+56593699,56595611,"NOG, SYM1, SYNS1A",Noggin,"Symphalangism, proximal, 1A, 185800 (3), Autosomal dominant; Brachydactyly, type B2, 611377 (3), Autosomal dominant; Stapes ankylosis with broad thumbs and toes, 184460 (3), Autosomal dominant; Tarsal-carpal coalition syndrome, 186570 (3), Autosomal dominant; Multiple synostoses syndrome 1, 186500 (3), Autosomal dominant",AD
+56834151,56869567,"DGKE, NPHS7, AHUS7","Diacylglycerol kinase, epsilon, 64-kD","{Hemolytic uremic syndrome, atypical, susceptibility to, 7}, 615008 (3), Autosomal recessive; Nephrotic syndrome, type 7, 615008 (3), Autosomal recessive",AR
+56887909,56914049,"TRIM25, ZNF147, EFP",Tripartite motif-containing 25,,
+56938199,56961050,"COIL, CLN80",Coilin p80,,
+56978131,57006768,"SCPEP1, RISC",Serine carboxypeptidase 1,,
+57085246,57121344,"AKAP1, AKAP149, SAKAP84","A-kinase anchor protein 1, 149kD",,
+57255851,57701581,MSI2,Musashi RNA binding protein 2,,
+57834781,57850044,"MRPS23, COXPD46",Mitochondrial ribosomal protein S23,"?Combined oxidative phosphorylation deficiency 46, 618952 (3), Autosomal recessive",AR
+57861243,57955412,CUEDC1,CUE domain-containing protein 1,,
+57971552,57988254,"VEZF1, ZNF161, CMD1OO",Vascular endothelial zinc finger 1,"?Cardiomyopathy, dilated, 1OO, 620247 (3), Autosomal dominant",AD
+57989038,58007246,"SRSF1, SFRS1, ASF, SF2, SRp30a, NEDFBA","Splicing factor, arginine/serine-rich 1 (splicing factor 2, alternate splicing factor)","Neurodevelopmental disorder with dysmorphic facies and behavioral abnormalities, 620489 (3), Autosomal dominant",AD
+58083419,58095542,"DYNLL2, DLC2","Dynein, light chain, LC8-type 2",,
+58192726,58205174,"EPX, EPXD",Eosinophil peroxidase,"[Eosinophil peroxidase deficiency], 261500 (3), Autosomal recessive",AR
+58205441,58219255,"MKS1, MKS, BBS13, JBTS28",MKS1 transition zone complex subunit 1,"Bardet-Biedl syndrome 13, 615990 (3), Autosomal recessive; Meckel syndrome 1, 249000 (3), Autosomal recessive; Joubert syndrome 28, 617121 (3), Autosomal recessive",AR
+58238584,58268518,LPO,Lactoperoxidase,,
+58269855,58280935,MPO,Myeloperoxidase,"{Alzheimer disease, susceptibility to}, 104300 (3), Autosomal dominant; Myeloperoxidase deficiency, 254600 (3), Autosomal recessive; {Lung cancer, protection against, in smokers} (3)",AD/AR
+58301231,58328795,"TSPOAP1, RIMBP1, KIAA0612, BZRAP1, PRAX1, DYT22",TSPO associated protein 1,"Dystonia 22, juvenile-onset, 620453 (3), Autosomal recessive; ?Dystonia 22, adult-onset, 620456 (3), Autosomal recessive",AR
+58331232,58331318,MIR142,Micro RNA 142,,
+58345178,58352201,SUPT4H1,"SPT4 homolog, DSIF elongation factor subunit",,
+58352500,58417534,"RNF43, RNF124, SSPCS",Ring finger protein 43,"Sessile serrated polyposis cancer syndrome, 617108 (3), Autosomal dominant",AD
+58489537,58519047,MTMR4,Myotubularin-related protein 4,,
+58520256,58544328,"SEPT4, PNUTL2",Septin 4,,
+58556678,58692045,"TEX14, SPGF23",Testis-expressed gene 14,"Spermatogenic failure 23, 617707 (3), Autosomal recessive",AR
+58692573,58735611,"RAD51C, FANCO, BROVCA3",RAD52 paralog C,"{Breast-ovarian cancer, familial, susceptibility to, 3}, 613399 (3); Fanconi anemia, complementation group O, 613390 (3), Autosomal recessive",AR
+58755854,58985179,"PPM1E, CAMKPN","Protein phosphatase, magnesium/manganese-dependent, 1E",,
+58967201,59106880,"TRIM37, MUL, KIAA0898",Tripartite motif-containing 37,"Mulibrey nanism, 253250 (3), Autosomal recessive",AR
+59109857,59155186,"SKA2, FAM33A","Spindle- and kinetochore-associated complex, subunit 2",,
+59151136,59151221,"MIR301A, MIR301",Micro RNA 301A,,
+59155746,59206709,PRR11,Proline-rich protein 11,,
+59210035,59215230,"SMG8, C17orf71, ALKUS",SMG8 nonsense-mediated mRNA decay factor,"Alzahrani-Kuwahara syndrome, 619268 (3), Autosomal recessive",AR
+59220511,59275970,"GDPD1, GDE4",Glycerophosphodiester phosphodiesterase domain-containing protein 1,,
+59331655,59401729,YPEL2,Yippee-like 2,,
+59500001,64600000,BSZQTL,Bone size quantitative trait locus 1,"{Bone size QTL}, 609656 (2)",
+59500001,63100000,"DEL17q23.1q23.2, C17DELq23.1q23.2",Chromosome 17q23.1-q23.2 deletion syndrome,"Chromosome 17q23.1-q23.2 deletion syndrome, 613355 (4), Isolated cases",
+59500001,63100000,"DUP17q23.1q23.2, C17DUPq23.1q23.2",Chromosome 17q23.1-q23.2 duplication syndrome,"Chromosome 17q23.1-q23.2 duplication syndrome, 613618 (4), Autosomal dominant",AD
+59500001,83257441,PEPE,Peptidase E,,
+59565610,59608345,"DHX40, DDX40",DEAH-box helicase 40,,
+59619895,59696956,"CLTC, MRD56","Clathrin, heavy polypeptide (Hc)","Intellectual developmental disorder, autosomal dominant 56, 617854 (3), Autosomal dominant",AD
+59697308,59707430,"PTRH2, BIT1, IMNEPD",Peptidyl-tRNA hydrolase 2,"Infantile-onset multisystem neurologic, endocrine, and pancreatic disease, 616263 (3), Autosomal recessive",AR
+59707654,59842255,"VMP1, TMEM49, EPG3",Vacuole membrane protein 1,,
+59841266,59841337,"MIR21, MIRN21",Micro RNA 21,,
+59859479,59892943,"TUBD1, TUBD","Tubulin, delta-1",,
+59893121,59950574,"RPS6KB1, S6K1",Ribosomal protein S6 kinase B1,,
+59952240,59964740,RNFT1,"RING finger protein, transmembrane 1",,
+60083566,60088467,"WFDC21P, LNCDC, LOC615638","WAP four-disulfide core domain 21, pseudogene",,
+60149973,60179021,CA4,Carbonic anhydrase IV,,
+60177327,60422416,"USP32, USP10",Ubiquitin-specific protease 32,,
+60200001,76800000,BMIQ15,Body mass index quantitative trait locus 15,"[Body mass index QTL 15], 612967 (2)",
+60200001,63100000,RP17,Retinitis pigmentosa 17,"Retinitis pigmentosa 17, 600852 (4), Autosomal dominant",AD
+60443158,60526242,"APPBP2, PAT1",Amyloid beta precursor protein-binding protein 2,,
+60600193,60666280,"PPM1D, WIP1, JDVS","Protein phosphatase, magnesium-dependent, 1, delta isoform","Breast cancer, somatic, 114480 (3); Jansen-de Vries syndrome, 617450 (3), Autosomal dominant",AD
+60677851,61392831,"BCAS3, HEMARS",BCAS3 microtubule associated cell migration factor,"Hengel-Maroofian-Schols syndrome, 619641 (3), Autosomal recessive",AR
+61399843,61409466,"TBX2, VETD",T-box 2,"Vertebral anomalies and variable endocrine and T-cell dysfunction, 618223 (3), Autosomal dominant",AD
+61452422,61485110,"TBX4, ICPPS, PAPPAS",T-box 4,"Ischiocoxopodopatellar syndrome with or without pulmonary arterial hypertension, 147891 (3), Autosomal dominant; Amelia, posterior, with pelvic and pulmonary hypoplasia syndrome, 601360 (3), Autosomal recessive",AD/AR
+61590421,61591219,NACA2,"Nascent polypeptide-associated complex, alpha polypeptide, 2",,
+61679139,61863528,"BRIP1, BACH1, FANCJ",BRCA1-associated C-terminal helicase 1,"Fanconi anemia, complementation group J, 609054 (3); {Breast cancer, early-onset, susceptibility to}, 114480 (3), Somatic mutation, Autosomal dominant",AD
+61865367,61927982,"INTS2, INT2, KIAA1287",Integrator complex subunit 2,,
+61942605,62065278,"MED13, THRAP1, TRAP240, MRD61",Mediator complex subunit 13,"Intellectual developmental disorder, autosomal dominant 61, 618009 (3), Autosomal dominant",AD
+62370218,62416480,EFCAB3,EF-hand calcium-binding domain-containing protein 3,,
+62423897,62453385,"METTL2A, METTL2","Methyltransferase 2A, methylcytidine",,
+62470914,62615481,"TLK2, MRD57",Tousled-like kinase 2,"Intellectual developmental disorder, autosomal dominant 57, 618050 (3), Autosomal dominant",AD
+62627670,62693597,"MRC2, ENDO180, UPARAP, CD280","Mannose receptor, C-type, 2",,
+62701314,62808314,MARCH10,Membrane-associated RING-CH finger protein 10,,
+62966235,63427703,"TANC2, KIAA1636, IDDALDS","Tetratricopeptide repeat-, ankyrin repeat-, and coiled-coil-containing protein 2","Intellectual developmental disorder with autistic features and language delay, with or without seizures, 618906 (3), Autosomal dominant",AD
+63432304,63446639,"CYB561, ORTHYP2",Cytochrome b-561,"Orthostatic hypotension 2, 618182 (3), Autosomal recessive",AR
+63477061,63498373,"ACE, DCP1, ACE1, MVCD3, ICH",Angiotensin I converting enzyme (dipeptidyl carboxypeptidase-1),"{Stroke, hemorrhagic}, 614519 (3); Renal tubular dysgenesis, 267430 (3), Autosomal recessive; {Myocardial infarction, susceptibility to} (3); {Microvascular complications of diabetes 3}, 612624 (3); [Angiotensin I-converting enzyme, benign serum increase] (3); {SARS, progression of} (3)",AR
+63523358,63548992,"KCNH6, HERG2","Potassium channel, voltage-gated, subfamily H, member 6",,
+63550477,63594266,"DCAF7, AN11",DDB1- and CUL4-associated factor 7,,
+63600895,63608365,"TACO1, CCDC44, MC4DN8",Translational activator of mitochondrially encoded cytochrome c oxidase subunit I,"Mitochondrial complex IV deficiency, nuclear type 8, 619052 (3), Autosomal recessive",AR
+63622417,63696305,"MAP3K3, MEKK3, MAPKKK3",Mitogen-activated kinase kinase kinase 3,,
+63702832,63741986,"STRADA, STRAD, LYK5",STE20-related kinase adaptor alpha,"Polyhydramnios, megalencephaly, and symptomatic epilepsy, 611087 (3), Autosomal recessive",AR
+63745255,63773597,"CCDC47, THNS",Coiled-coil domain-containing protein 47,"Trichohepatoneurodevelopmental syndrome, 618268 (3), Autosomal recessive",AR
+63773800,63819317,"DDX42, RHELP",DEAD-box helicase 42,,
+63819433,63827663,FTSJ3,FTSJ RNA 2-prime-O-methyltransferase 3,,
+63827431,63832019,"PSMC5, TRIP1","Proteasome (prosome, macropain) 26S subunit, ATPase, 5",,
+63832081,63842685,"SMARCD2, BAF60B, SGD2","SWI/SNF-related, matrix-associated, actin-dependent regulator of chromatin, subfamily d, member 2","Specific granule deficiency 2, 617475 (3), Autosomal recessive",AR
+63857016,63864379,"TCAM1P, TCAM1","Testicular cell adhesion molecule 1, pseudogene",,
+63872012,63873729,"CSH2, CSB",Chorionic somatomammotropin B,,
+63880215,63881944,"GH2, GHV",Growth hormone-2,,
+63894918,63896574,"CSH1, CSA, PL",Chorionic somatomammotropin hormone-1,[Placental lactogen deficiency] (1),
+63909608,63911258,"CSHL1, CSL",Chorionic somatomammotropin hormone-like 1,,
+63917203,63918839,"GH1, GHN, IGHD1A, IGHD1B, IGHD2",Growth hormone-1,"Kowarski syndrome, 262650 (3), Autosomal recessive; Growth hormone deficiency, isolated, type II, 173100 (3), Autosomal dominant; Growth hormone deficiency, isolated, type IB, 612781 (3); Growth hormone deficiency, isolated, type IA, 262400 (3), Autosomal recessive",AD/AR
+63928740,63932331,"CD79B, IGB, B29, AGM6",CD79B antigen,"Agammaglobulinemia 6, 612692 (3), Autosomal recessive",AR
+63938554,63972918,"SCN4A, HYPP, NAC1A, HOKPP2, CMS16, CMYP22A","Sodium voltage-gated channel, alpha subunit 4","Paramyotonia congenita, 168300 (3), Autosomal dominant; Hyperkalemic periodic paralysis, 170500 (3), Autosomal dominant; Congenital myopathy 22B, severe fetal, 620369 (3), Autosomal recessive; Hypokalemic periodic paralysis, type 2, 613345 (3), Autosomal dominant; Myotonia congenita, atypical, acetazolamide-responsive, 608390 (3), Autosomal dominant; Myasthenic syndrome, congenital, 16, 614198 (3), Autosomal recessive; Congenital myopathy 22A, classic, 620351 (3), Autosomal recessive",AD/AR
+64002595,64020633,ICAM2,Intercellular adhesion molecule-2,,
+64039142,64130144,"ERN1, IRE1, IRE1A",Endoplasmic reticulum-to-nucleus signaling 1,,
+64147227,64263260,"TEX2, KIAA1738",Testis-expressed gene 2,,
+64319415,64390860,PECAM1,Platelet/endothelial cell adhesion molecule (CD31 antigen),,
+64477785,64497054,"POLG2, POLGB, PEOA4, MTDPS16A, MTDPS16B","Polymerase, DNA, gamma-2","Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 4, 610131 (3), Autosomal dominant; ?Mitochondrial DNA depletion syndrome 16 (hepatic type), 618528 (3), Autosomal recessive; ?Mitochondrial DNA depletion syndrome 16B (neuroophthalmic type), 619425 (3), Autosomal recessive",AD/AR
+64498254,64506866,"DDX5, HLR1, G17P1",DEAD-box helicase 5,,
+64542282,64662307,SMURF2,SMAD-specific E3 ubiquitin protein ligase 2,,
+64600001,72900000,"CTRCT7, CCA1",Cataract 7,"Cataract 7, 115660 (2), Autosomal dominant",AD
+64600001,72900000,SRXY10,"46,XY sex reversal 10","46XY sex reversal 10, 616425 (4), Autosomal dominant",AD
+64854130,64919478,LRRC37A3,Leucine-rich repeat-containing protein 37A3,,
+65009289,65056740,GNA13,"Guanine nucleotide-binding protein, alpha-13",,
+65137370,65227703,"RGS9, PERRS1",Regulator of G protein signaling 9,"Prolonged electroretinal response suppression 1, 608415 (3), Autosomal recessive",AR
+65528563,65561648,"AXIN2, ODCRCS","Axis inhibitor 2 (conductin, mouse, homolog of)","Colorectal cancer, somatic, 114500 (3); Oligodontia-colorectal cancer syndrome, 608615 (3), Autosomal dominant",AD
+65635537,66192133,"CEP112, CCDC46, MACOCO, SPGF44","Centrosomal protein, 112kD","Spermatogenic failure 44, 619044 (3), Autosomal recessive",AR
+66200001,72900000,"HTGH, DEL17q24","Hypertrichosis terminalis, generalized, with or without gingival hyperplasia (chromosome 17q24 microdeletion syndrome)","Hypertrichosis terminalis, generalized, with or without gingival hyperplasia, 135400 (4), Autosomal recessive",AR
+66212033,66229415,APOH,Apolipoprotein H (beta-2-glycoprotein I),,
+66302613,66810743,"PRKCA, PKCA","Protein kinase C, alpha polypeptide","Pituitary tumor, invasive (3)",
+66835117,66894751,CACNG5,"Calcium channel, voltage-dependent, gamma-5 subunit",,
+66964707,67033398,CACNG4,"Calcium channel, voltage-dependent, gamma-4 subunit",,
+67044554,67056797,"CACNG1, CACNLG","Calcium channel, voltage-dependent, gamma-1 subunit",,
+67070444,67245989,"HELZ, KIAA0054, HUMORF5",Helicase with zinc finger domain,,
+67337916,67366577,"PSMD12, P55, STISS","Proteasome 26S subunit, non-ATPase, 12","Stankiewicz-Isidor syndrome, 617516 (3), Autosomal dominant",AD
+67377281,67697256,"PITPNC1, RDGBB","Phosphatidylinositol transfer protein, cytoplasmic, 1",,
+67717936,67744531,NOL11,Nucleolar protein 11,,
+67825503,67984378,"BPTF, FALZ, FAC1, NURF301, NEDDFL",Bromodomain PHD finger transcription factor,"Neurodevelopmental disorder with dysmorphic facies and distal limb anomalies, 617755 (3), Autosomal dominant",AD
+68035735,68046854,"KPNA2, RCH1, QIP2",Karyopherin alpha-2,,
+68206129,68257164,AMZ2,Archaelysin family metallopeptidase 2,,
+68259170,68452019,"ARSG, KIAA1001, USH4",Arylsulfatase G,"Usher syndrome, type IV, 618144 (3), Autosomal recessive",AR
+68267026,68291479,"SLC16A6, MCT7",Solute carrier family 16 (monocarboxylic acid transporter) member 6,,
+68413623,68551316,"PRKAR1A, TSE1, CNC1, CAR, PPNAD1, ACRDYS1","Protein kinase, cAMP-dependent, regulatory, type I, alpha","Pigmented nodular adrenocortical disease, primary, 1, 610489 (3), Autosomal dominant; Acrodysostosis 1, with or without hormone resistance, 101800 (3), Autosomal dominant; Adrenocortical tumor, somatic (3); Carney complex, type 1, 160980 (3), Autosomal dominant; Myxoma, intracardiac, 255960 (3), Autosomal dominant",AD
+68421281,68457496,"WIPI1, WIPI49",WD40 repeat protein interacting with phosphoinositides 1,,
+68535116,68601367,"FAM20A, AIGFS, AI1G","Family with sequence similarity 20, member A","Amelogenesis imperfecta, type IG (enamel-renal syndrome), 204690 (3), Autosomal recessive",AR
+68867289,68955392,"ABCA8, KIAA0822","ATP-binding cassette, subfamily A, member 8",,
+68974488,69078977,ABCA9,"ATP-binding cassette, subfamily A, member 9",,
+69078702,69141895,ABCA6,"ATP-binding cassette, subfamily A, member 6",,
+69100001,76800000,PRBNS,Pierre Robin syndrome,"Pierre Robin syndrome, 261800 (2), Autosomal recessive",AR
+69100001,76800000,"SRXX2, DUP17q24.3",46XX sex reversal 2,"46XX sex reversal 2, 278850 (4), Autosomal dominant",AD
+69100001,72900000,TTPP3,"Thyrotoxic periodic paralysis, susceptibility to, 3","{Thyrotoxic periodic paralysis, susceptibility to, 3}, 614834 (2)",
+69148007,69244848,ABCA10,"ATP-binding cassette, subfamily A, member 10",,
+69244311,69327133,"ABCA5, KIAA1888, HTC3","ATP-binding cassette, subfamily A, member 5","?Hypertrichosis, congenital generalized, with gingival hyperplasia, 135400 (3), Autosomal recessive",AR
+69414697,69553865,"MAP2K6, PRKMK6, MKK6, MEK6, MAPKK6",Mitogen-activated protein kinase kinase 6,,
+70075225,70135608,"KCNJ16, KIR5.1, HKTD","Potassium channel, inwardly rectifying, subfamily J, member 16","Hypokalemic tubulopathy and deafness, 619406 (3), Autosomal recessive",AR
+70169532,70180044,"KCNJ2, HHIRK1, KIR2.1, IRK1, LQT7, SQT3, ATFB9","Potassium channel, inwardly rectifying, subfamily J, member 2","Atrial fibrillation, familial, 9, 613980 (3), Autosomal dominant; Andersen syndrome, 170390 (3), Autosomal dominant; Short QT syndrome 3, 609622 (3)",AD
+72121020,72126416,"SOX9, CMD1, SRA1",SRY (sex-determining region Y)-box 9,"Campomelic dysplasia with autosomal sex reversal, 114290 (3), Autosomal dominant; Acampomelic campomelic dysplasia, 114290 (3), Autosomal dominant; Campomelic dysplasia, 114290 (3), Autosomal dominant",AD
+72403322,72592804,"LINC00673, HILNC75, SLNCR, LUCAIR1",Long intergenic noncoding RNA 673,,
+72645949,73092688,"SLC39A11, ZIP11, C17orf26","Solute carrier family 39 (zinc transporter), member 11",,
+72900001,83257441,CDR3,Cerebellar degeneration-related autoantigen-3,,
+72900001,83257441,DSPS,"Delayed sleep phase syndrome, susceptibility to","{Delayed sleep phase syndrome, susceptibility to}, 614163 (2), Autosomal dominant",AD
+72900001,83257441,EPR1,Effector cell protease receptor 1,,
+72900001,83257441,NDNC9,"Nail disorder, nonsyndromic congenital, 9 (anonychia-onycholysis)","Nail disorder, nonsyndromic congenital, 9, 614149 (2), Autosomal recessive",AR
+73165010,73176633,SSTR2,Somatostatin receptor-2,,
+73193055,73208507,"COG1, LDLB, KIAA1381, CDG2G",Component of oligomeric golgi complex 1,"Congenital disorder of glycosylation, type IIg, 611209 (3), Autosomal recessive",AR
+73283624,73312001,"CDC42EP4, BORG4",CDC42 effector protein 4 (binder of Rho GTPases 4),,
+73334384,73644445,"SDK2, KIAA1514",Sidekick cell adhesion molecule 2,,
+74203678,74210655,RPL38,Ribosomal protein L38,,
+74213571,74262020,TTYH2,Tweety family member 2,,
+74274234,74314884,"DNAI2, CILD9","Dynein, axonemal, intermediate chain 2","Ciliary dyskinesia, primary, 9, with or without situs inversus, 612444 (3), Autosomal recessive",AR
+74326226,74355820,KIF19,Kinesin family member 19,,
+74367506,74372600,"GPR142, PGR2",G protein-coupled receptor 142,,
+74432088,74451658,"GPRC5C, RAIG3","G protein-coupled receptor, family C, group 5, member C",,
+74466373,74484798,"CMRF35H, CMRF35H9",CMRF35H antigen,,
+74521174,74531475,"CD300LB, TREM5, IREM3","CD300 antigen-like family, member B",,
+74534635,74546115,"CMRF35, CMRF35A",CMRF35 antigen,,
+74557243,74567509,CD300H,CD300H antigen,,
+74578643,74592283,"CD300LD, CD300D","CD300 antigen-like family, member D",,
+74609885,74623738,"CD300E, CD300LE, IREM2, CLM2",CD300E antigen,,
+74671131,74747335,RAB37,Pas-associated protein RAB37,,
+74694317,74712923,"CD300LF, IGSF13, IREM1, CLM1","CD300 antigen-like family, member F",,
+74748628,74769353,"SLC9A3R1, EBP50, NHERF1, NPHLOP2","Solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulatory factor 1","Nephrolithiasis/osteoporosis, hypophosphatemic, 2, 612287 (3), Autosomal dominant",AD
+74842023,74861532,"GRIN2C, NMDAR2C","Glutamate receptor, ionotropic, N-methyl D-aspartate 2C",,
+74862497,74872994,"FDXR, ADXR, ANOA",Ferredoxin reductase (adrenodoxin reductase),"Auditory neuropathy and optic atrophy, 617717 (3), Autosomal recessive",AR
+74874787,74893633,FADS6,Fatty acid desaturase 6,,
+74916083,74923255,"USH1G, SANS",USH1 protein network component SANS,"Usher syndrome, type 1G, 606943 (3), Autosomal recessive",AR
+74924273,74933912,OTOP2,Otopetrin 2,,
+74935802,74949992,OTOP3,Otopetrin 3,,
+74950742,74972759,"HID1, 17orf28, DMC1, DEE105",HID1 domain-containing protein 1,"Developmental and epileptic encephalopathy 105 with hypopituitarism, 619983 (3), Autosomal recessive",AR
+75012670,75021261,"MRPL58, ICT1, DS1",Mitochondrial ribosomal protein L58,,
+75032571,75065886,"KCTD2, KIAA0176",Potassium channel tetramerization domain-containing 2,,
+75038863,75046969,"ATP5PD, APT5H","ATP synthase, peripheral stalk, subunit D",,
+75087385,75110149,"SLC16A5, MCT6",Solute carrier family 16 (monocarboxylic acid transporter) member 5,,
+75130228,75131742,"NT5C, UMPH2, DNT1","5', 3' nucleotidase, cytosolic",,
+75135243,75154512,"JPT1, HN1",Jupiter microtubule-associated homolog 1,,
+75165586,75182959,"SUMO2, SMT3B",Small ubiquitin-like modifier 2,,
+75205679,75235758,"NUP85, PCNT1, PCNT, NPHS17",Nucleoporin 85kD,"Nephrotic syndrome, type 17, 618176 (3), Autosomal recessive",AR
+75261879,75266376,"MRPS7, COXPD34",Mitochondrial ribosomal protein S7,"?Combined oxidative phosphorylation deficiency 34, 617872 (3), Autosomal recessive",AR
+75236599,75262363,"GGA3, KIAA0154","Golgi associated, gamma adaptin ear containing, ARF binding protein 3",,
+75266228,75271292,"MIF4GD, SLIP1",MIF4G domain-containing protein,,
+75272992,75289433,"SLC25A19, DNC, MUP1, MCPHA, THMD3, THMD4","Solute carrier family 25 (mitochondrial deoxynucleotide carrier), member 19","Microcephaly, Amish type, 607196 (3), Autosomal recessive; Thiamine metabolism dysfunction syndrome 4 (progressive polyneuropathy type), 613710 (3), Autosomal recessive",AR
+75318076,75405678,GRB2,Growth factor receptor-bound protein 2,,
+75456635,75500452,"TMEM94, KIAA0195, IDDCDF",Transmembrane protein 94,"Intellectual developmental disorder with cardiac defects and dysmorphic facies, 618316 (3), Autosomal recessive",AR
+75500261,75515537,"CASKIN2, KIAA1139",CASK-interacting protein 2,,
+75516528,75524735,"TSEN54, SEN54, PCH2A, PCH4, PCH5","tRNA splicing endonuclease, subunit 54","Pontocerebellar hypoplasia type 2A, 277470 (3), Autosomal recessive; Pontocerebellar hypoplasia type 4, 225753 (3), Autosomal recessive; ?Pontocerebellar hypoplasia type 5, 610204 (3), Autosomal recessive",AR
+75525002,75575209,LLGL2,LLGL scribble cell polarity complex component 2,,
+75626854,75667154,"RECQL5, RECQ5","DNA helicase, RecQ-like 5",,
+75646251,75647974,"SMIM6, ELN",Small integral membrane protein 6,,
+75667338,75708059,"SAP30BP, HTRP, HCNGP, HTRG",SAP30-binding protein,,
+75721459,75757818,"ITGB4, JEB5B, JEB5A","Integrin, beta-4","Epidermolysis bullosa, junctional 5B, with pyloric atresia, 226730 (3), Autosomal recessive; Epidermolysis bullosa, junctional 5A, intermediate, 619816 (3), Autosomal recessive",AR
+75751469,75765192,GALK1,Galactokinase-1,"Galactokinase deficiency with cataracts, 230200 (3), Autosomal recessive",AR
+75776434,75779779,"H3-3B, H3F3B, BRYLIB2",H3.3 histone B,"Bryant-Li-Bhoj neurodevelopmental syndrome 2, 619721 (3), Autosomal dominant",AD
+75784806,75825799,"UNK, UNKEMPT, ZC3H5, KIAA1753",Unkempt family zinc finger protein,,
+75827225,75844404,"UNC13D, MUNC13-4, HPLH3, HLH3, FHL3",unc-13 homolog D,"Hemophagocytic lymphohistiocytosis, familial, 3, 608898 (3), Autosomal recessive",AR
+75845699,75856436,"WBP2, DFNB107",WW domain-binding protein 2,"Deafness, autosomal recessive 107, 617639 (3), Autosomal recessive",AR
+75874164,75878581,"TRIM47, GOA",Tripartite motif-containing protein 47,,
+75879537,75896951,TRIM65,Tripartite motif-containing protein 65,,
+75898644,75904884,MRPL38,Mitochondrial ribosomal protein L38,,
+75909574,75941042,"FGF1, ALB",FAS-binding factor 1,,
+75941507,75979166,"ACOX1, ACOX, SCOX, MITCH","Acyl-Coenzyme A oxidase 1, palmitoyl","Mitchell syndrome, 618960 (3), Autosomal dominant; Peroxisomal acyl-CoA oxidase deficiency, 264470 (3), Autosomal recessive",AD/AR
+75979240,76000586,"TEN1, C17orf106","TEN1, CST complex subunit",,
+76000855,76005998,CDK3,Cyclin-dependent kinase 3,,
+76006845,76027306,EVPL,Envoplakin,,
+76038785,76072517,"SRP68, SCN10","Signal recognition particle, 68kD","?Neutropenia, severe congenital, 10, autosomal recessive, 620534 (3), Autosomal recessive",AR
+76071962,76077537,"GALR2, GALNR2",Galanin receptor 2,,
+76079182,76082806,"ZACN, LGICZ1, ZAC, L2",Zinc activated ion channel,,
+76081016,76103787,"EXOC7, EX070, KIAA1067, NEDSEBA",Exocyst complex component 7,"Neurodevelopmental disorder with seizures and brain atrophy, 619072 (3), Autosomal recessive",AR
+76136333,76141245,"FOXJ1, FKHL13, HFH4, CILD43",Forkhead box J1,"Ciliary dyskinesia, primary, 43, 618699 (3), Autosomal dominant",AD
+76274049,76310964,"QRICH2, SPGF35",Glutamine-rich protein 2,"Spermatogenic failure 35, 618341 (3), Autosomal recessive",AR
+76309478,76354198,PRPSAP1,Phosphoribosyl pyrophosphate synthetase-associated protein-1,,
+76383204,76387855,SPHK1,Sphingosine kinase,,
+76389456,76453152,"UBE2O, KIAA1734",Ubiquitin-conjugating enzyme E2 O,,
+76453351,76470117,"AANAT, SNAT",Arylalkylamine N-acetyltransferase,,
+76470893,76501427,"RHBDF2, IRHOM2, TOC","Rhomboid 5, Drosophila, homolog of, 2","Tylosis with esophageal cancer, 148500 (3), Autosomal dominant",AD
+76527356,76551193,"CYGB, HGB, STAP",Cytoglobin,,
+76527586,76553580,"PRCD, RP36","PRCD, Dog, homolog of","Retinitis pigmentosa 36, 610599 (3)",
+76565377,76585860,"ST6GALNAC2, SIAT7B, SAITL1","ST6 alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1, 3-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2",,
+76617407,76643757,"ST6GALNAC1, SIAT7A, STYI","ST6 alpha-N-aetyl-neuraminyl-2,3-beta-galactosyl-1, 3-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1",,
+76712836,76726606,"JMJD6, PSR",Jumonji domain containing 6 (phosphatidylserine receptor),,
+76726041,76733881,"METTL23, C17orf95, MRT44",Methyltransferase-like 23,"Intellectual developmental disorder, autosomal recessive 44, 615942 (3), Autosomal recessive",AR
+76734115,76737411,"SRSF2, SFRS2, SC35",Serine/arginine-rich splicing factor 2,,
+76736634,76803805,MFSD11,Major facilitator superfamily domain-containing protein 11,,
+76868404,76950393,MGAT5B,"Alpha-1,6-mannosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase isozyme B",,
+77088643,77094986,"SNHG20, LINC00338",Small nucleolar RNA host gene 20,,
+77088685,77217101,SEC14L,SEC14-like lipid-binding protein 1,,
+77200001,83257441,ATOD4,"Dermatitis, atopic, 4","{Dermatitis, atopic, susceptibility to, 4}, 605805 (2)",
+77200001,83257441,IS5,"Scoliosis, idiopathic, susceptibility to, 5","{Scoliosis, idiopathic, susceptibility to, 5}, 612239 (2)",
+77281499,77500596,"SEPT9, MSF, MSF1, NAPB",Septin 9,"Amyotrophy, hereditary neuralgic, 162100 (3), Autosomal dominant",AD
+77957557,78108835,"TNRC6C, KIAA1582",Trinucleotide repeat-containing gene 6C,,
+78107397,78132427,"TMC6, EVER1, EV1",Transmembrane channel-like 6,"Epidermodysplasia verruciformis, 226400 (3), Autosomal recessive",AR
+78130771,78142968,"TMC8, EVER2, EV2",Transmembrane channel-like 8,"Epidermodysplasia verruciformis 2, 618231 (3), Autosomal recessive",AR
+78168545,78172964,SYNGR2,Synaptogyrin 2,,
+78174079,78187204,TK1,Thymidine kinase-1,,
+78214253,78225635,"BIRC5, API4",Baculoviral IAP repeat-containing protein 5,,
+78231293,78240987,TMEM235,Transmembrane protein 235,,
+78356778,78360925,"SOCS3, SSI3, CIS3",Suppressor of cytokine signaling 3,,
+78378649,78424659,PGS1,Phosphatidylglycerophosphate synthase 1,,
+78423697,78577396,"DNAH17, DNEL2, SPGF39","Dynein, axonemal, heavy chain 17","Spermatogenic failure 39, 618643 (3), Autosomal recessive",AR
+78674048,78782273,"CYTH1, D17S811E, SEC7",Cytohesin 1,,
+78787381,78841439,"USP36, KIAA1453",Ubiquitin-specific protease 36,,
+78852977,78925387,TIMP2,Tissue inhibitor of metalloproteinase-2,,
+78971255,78979923,LGALS3BP,"Lectin, galactoside-binding, soluble, 3 binding protein (galectin 6 binding protein)",,
+78991716,79009764,"CANT1, SCAN1, DBQD1, EDM7",Calcium-activated nucleotidase 1,"Desbuquois dysplasia 1, 251450 (3), Autosomal recessive; Epiphyseal dysplasia, multiple, 7, 617719 (3), Autosomal recessive",AR
+79022934,79049788,"C1QTNF1, GIP",C1q- and tumor necrosis factor-related protein 1,,
+79074824,79088599,"NAGLUEB, FLJ21865","N-acetylglucosaminidase, endo-beta",,
+79089345,79665571,"RBFOX3, FOX3, NEUN, HRNBP3","RNA-binding protein FOX1, C. Elegans, homolog of, 3",,
+79730943,79742219,ENPP7,Ectonucleotide pyrophosphatase/phosphodiesterase 7,,
+79777311,79787983,"CBX2, M33, SRXY5",Chromobox 2,"?46XY sex reversal 5, 613080 (3), Autosomal recessive",AR
+79792132,79797077,"CBX8, PC3",Chromobox 8,,
+79833156,79839440,"CBX4, PC2",Chromobox 4,,
+79932343,80035872,TBC1D16,"TBC1 domain family, member 16",,
+80036642,80100613,"CCDC40, KIAA1640",Coiled-coil domain-containing protein 40,"Ciliary dyskinesia, primary, 15, 613808 (3), Autosomal recessive",AR
+80101581,80119881,GAA,"Glucosidase, acid alpha-","Glycogen storage disease II, 232300 (3), Autosomal recessive",AR
+80134369,80147128,"EIF4A3, DDX48, MUK34, NMP265, KIAA0111, RCPS",Eukaryotic translation initiation factor 4A3,"Robin sequence with cleft mandible and limb anomalies, 268305 (3), Autosomal recessive",AR
+80170030,80209331,"CARD14, CARMA2, BIMP2, PSORS2, PSS1, PRP",Caspase recruitment domain-containing protein 14,"Psoriasis 2, 602723 (3), Autosomal dominant; Pityriasis rubra pilaris, 173200 (3), Autosomal dominant",AD
+80200673,80220333,"SGSH, MPS3A, SFMD",N-sulfoglucosamine sulfohydrolase (sulfamidase),"Mucopolysaccharidosis type IIIA (Sanfilippo A), 252900 (3), Autosomal recessive",AR
+80220427,80253500,SLC26A11,"Solute carrier family 26 (sulfate transporter), member 11",,
+80260852,80398794,"RNF213, ALO17, KIAA1618, MYMY2",Ring finger protein 213,"{Moyamoya disease 2, susceptibility to}, 607151 (3), Autosomal recessive, Autosomal dominant",AD/AR
+80415167,80438086,ENDOV,Endonuclease V,,
+80466834,80476607,"NPTX1, NP1, SCA50",Neuronal pentraxin 1,"Spinocerebellar ataxia 50, 620158 (3), Autosomal dominant",AD
+80544838,80966368,"RPTOR, RAPTOR, KIAA1303",Regulatory-associated protein of MTOR,,
+80991841,81000133,CHMP6,Charged multivesicular body protein 6,,
+81035151,81117434,"BAIAP2, IRSP53",BAI1-associated protein 2,,
+81117295,81166221,"AATK, AATYK",Apoptosis-associated tyrosine kinase,,
+81125883,81125949,"MIR338, MIRN338",Micro RNA 338,,
+81189596,81222965,"AZI1, ZA1, KIAA1118","5-azacytidine-induced gene 1, mouse, homolog of",,
+81239311,81241310,"NDUFAF8, C17orf89, MC1DN34","NADH dehydrogenase (ubiquinone) complex I, assembly factor 8","Mitochondrial complex I deficiency, nuclear type 34, 618776 (3), Autosomal recessive",AR
+81244811,81295307,SLC38A10,"Solute carrier family 38 (amino acid transporter), member 10",,
+81395457,81466331,"BAHCC1, BAHD2, KIAA1447",BAH domain- and coiled-coil domain-containing protein 1,,
+81509971,81512799,"ACTG1, DFNA20, DFNA26, BRWS2","Actin, gamma-1","Deafness, autosomal dominant 20/26, 604717 (3), Autosomal dominant; Baraitser-Winter syndrome 2, 614583 (3), Autosomal dominant",AD
+81515062,81537130,"FSCN2, RFSN, RP30","Fascin, sea urchin, homolog of, 2","Retinitis pigmentosa 30, 607921 (3)",
+81539891,81553133,"C17orf70, FAAP100",Chromosome 17 open reading frame 70,,
+81556885,81637112,"NPL4, KIAA1499","NPL4 homolog, ubiquitin recognition factor",,
+81650459,81663127,"PDE6G, PDEG, RP57",Phosphodiesterase 6G,"Retinitis pigmentosa 57, 613582 (3), Autosomal recessive",AR
+81666737,81673899,CCDC137,Coiled-coil domain-containing protein 137,,
+81681165,81683797,ARL16,ADP ribosylation factor-like GTPase 16,,
+81684011,81702121,"HGS, HRS",Human growth factor-regulated tyrosine kinase substrate,,
+81703367,81707517,"MRPL12, RPML12","Ribosomal protein, mitochondrial, L12","?Combined oxidative phosphorylation deficiency 45, 618951 (3), Autosomal recessive",AR
+81712284,81721012,"SLC25A10, DIC, MTDPS19","Solute carrier family 25 (mitochondrial carrier), member 10 (dicarboxylate ion carrier)","?Mitochondrial DNA depletion syndrome 19, 618972 (3), Autosomal recessive",AR
+81804150,81814008,"GCGR, MVAH",Glucagon receptor,"Mahvash disease, 619290 (3), Autosomal recessive",AR
+81822361,81833291,"FAM195B, MCRIP1","Family with sequence similarity 194, member B",,
+81843166,81860535,"P4HB, PROHB, CLCRP1","Procollagen-proline, 2-oxoglutarate-4-dioxygenase, beta polypeptide","Cole-Carpenter syndrome 1, 112240 (3), Autosomal dominant",AD
+81867721,81871337,"ARHGDIA, GDIA1, NPHS8",Rho GDP dissociation inhibitor (GDI) alpha,"Nephrotic syndrome, type 8, 615244 (3), Autosomal recessive",AR
+81887835,81891587,"ALYREF, THOC4, ALY, BEF",ALY/REF export factor,,
+81890790,81900533,"ANAPC11, APC11",Anaphase-promoting complex subunit 11,,
+81900958,81911399,"PCYT2, ET, SPG82","Phosphate cytidylyltransferase 2, ethanolamine","Spastic paraplegia 82, autosomal recessive, 618770 (3), Autosomal recessive",AR
+81902238,81902905,"NPB, PPL7",Neuropeptide B,,
+81911939,81918176,"SIRT7, SIR2L7","Sirtuin 7 (Sir2, S. cerevisiae, homolog of, 7)",,
+81918270,81931244,MAFG,MAF bZIP transcription factor G,,
+81932391,81937300,"PYCR1, PRO3, ARCL2B, ARCL3B",Pyrroline-5-carboxylate reductase-1,"Cutis laxa, autosomal recessive, type IIIB, 614438 (3), Autosomal recessive; Cutis laxa, autosomal recessive, type IIB, 612940 (3), Autosomal recessive",AR
+81952507,81961187,NOTUM,"Notum, palmitoleoyl-protein carboxylesterase",,
+81977629,82017406,"ASPSCR1, RCC17, ASPL, ASPS","Alveolar soft-part sarcoma chromosome region, candidate 1","Alveolar soft-part sarcoma, 606243 (3)",
+82018703,82022878,"CENPX, STRA13, CENPX, FAAP10, MHF2, D9",Centromeric protein X,,
+82031678,82034204,RAC3,Rac family small GTPase 3,"Neurodevelopmental disorder with structural brain anomalies and dysmorphic facies, 618577 (3), Autosomal dominant",AD
+82035858,82037697,"DCXR, P34H, PNTSU",Dicarbonyl/L-xylulose reductase,"[Pentosuria], 260800 (3), Autosomal recessive",AR
+82047902,82051811,RFNG,Radical fringe,,
+82050932,82057470,GPS1,G protein pathway suppressor 1,,
+82078338,82098236,FASN,Fatty acid synthase,,
+82217934,82240086,"SLC16A3, MCT4",Solute carrier family 16 (monocarboxylic acid transporter) member 3,,
+82239019,82273750,"CSNK1D, ASPS, FASPS2","Casein kinase-1, delta","Advanced sleep-phase syndrome, familial, 2, 615224 (3), Autosomal dominant",AD
+82314873,82317608,CD7,CD7 antigen (p41),,
+82321024,82333959,"SECTM1, K12",Secreted and transmembrane 1,,
+82359247,82363775,TEX19,Testis-expressed gene 19,,
+82371765,82377458,"GPR14, UTR2, UTR",G protein-coupled receptor-14 (urotensin II receptor),,
+82418347,82442645,HEXD,Hexosaminidase D,,
+82442586,82450752,"CYBC1, EROS, C17orf62, CGD5",Cytochrome b(-254) chaperone 1,"Chronic granulomatous disease 5, autosomal recessive, 618935 (3), Autosomal recessive",AR
+82458198,82490537,"NARF, IOP2",Nuclear prelamin A recognition factor,,
+82519732,82604602,"FOXK2, ILF1",Forkhead box K2 (interleukin enhancer-binding factor 1),,
+82614562,82648444,"WDR45B, WIPI3, WDR45L, NEDSBAS",WD repeat domain 45B,"Neurodevelopmental disorder with spastic quadriplegia and brain abnormalities with or without seizures, 617977 (3), Autosomal recessive",AR
+82654973,82698698,RAB40B,"RAB40B, member Ras oncogene family",,
+82716706,82728013,FN3KRP,Fructosamine 3-kinase-related protein,,
+82735615,82751196,FN3K,Fructosamine 3-kinase,,
+82752065,82945914,"TBCD, PEBAT",Tubulin-specific chaperone D,"Encephalopathy, progressive, early-onset, with brain atrophy and thin corpus callosum, 617193 (3), Autosomal recessive",AR
+82829434,82840022,"ZNF750, FLJ13841, SLDPE",Zinc finger protein 750,"?Seborrhea-like dermatitis with psoriasiform elements, 610227 (3)",
+82942149,83051770,B3GNTL1,"Beat-1,3-N-acetylglucosaminyltransferase-like 1",,
+83079609,83095122,METRNL,Meteorin-like protein,,
+1,83257441,G6PDL,Glucose-6-phosphate dehydrogenase-like,,
+1,83257441,ODS1,"Opioid dependence, susceptibility to, 1","{Opioid dependence, susceptibility to, 1}, 610064 (2)",

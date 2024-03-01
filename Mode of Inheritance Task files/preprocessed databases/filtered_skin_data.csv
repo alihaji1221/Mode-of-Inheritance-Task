@@ -1,0 +1,30 @@
+gene symbol,disease name,MOI
+GJB6,DEAFNESS AUTOSOMAL RECESSIVE TYPE 1B,AR
+GJB3,DEAFNESS AUTOSOMAL DOMINANT TYPE 2B,AD
+COL4A3,ALPORT SYNDROME AUTOSOMAL RECESSIVE,AR
+GJB3,"DEAFNESS, AUTOSOMAL RECESSIVE",AR
+COL4A4,ALPORT SYNDROME AUTOSOMAL RECESSIVE,AR
+GJA1,AUTOSOMAL RECESSIVE OCULODENTODIGITAL DYSPLASIA,AR
+COL4A3,ALPORT SYNDROME AUTOSOMAL DOMINANT,AD
+GJA1,AUTOSOMAL DOMINANT OCULODENTODIGITAL DYSPLASIA,AD
+TERC,"Dyskeratosis congenita, autosomal dominant 1",AD
+GJB2,DEAFNESS AUTOSOMAL RECESSIVE TYPE 1A,AR
+FBN1,WEILL-MARCHESANI SYNDROME AUTOSOMAL DOMINANT,AD
+NOTCH3,Cerebral autosomal dominant arteiopathy with subcortical infarcts and leukencephalopathy,AD
+FBLN5,Cutis laxa type I autosomal recessive,AR
+FBLN5,Cutis laxa autosomal dominant 2,AD
+EDAR,Ectodermal dysplasia (recessive),AR
+EDAR,Ectodermal dysplasia (dominant),AD
+ADAMTS10,"Weill-Marchesani syndrome, autosomal recessive",AR
+KRT14,Epidermolysis Bullosa Simplex (recessive),AR
+COL7A1,Epidermolysis Bullosa Dystrophica (recessive),AR
+COL7A1,Epidermolysis Bullosa Dystrophica (dominant),AD
+LDLR,"Hypercholesterolaemia, autosomal dominant",AD
+APOB,"Hypercholesterolaemia, autosomal dominant, type B",AD
+LDLRAP1,"Hypercholesterolaemia, autosomal recessive, 1",AR
+DSG4,"Hypotrichosis, localised autosomal recessive",AR
+NIPAL4,"Ichthyosis, congenital, autosomal recessive",AR
+TNFRSF1A,"Periodic fever, familial, autosomal dominant",AD
+EFEMP2,"CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IB",AR
+FAS,"Autoimmune lymphoproliferative syndrome type IA (biallelic, dominant negative)",AD
+FAS,"Autoimmune lymphoproliferative syndrome type IA (mosaic, dominant negative)",AD

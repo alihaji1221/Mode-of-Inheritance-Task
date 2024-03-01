@@ -1,0 +1,46 @@
+gene symbol,disease name,MOI
+LRPAP1,"EXTREME MYOPIA;MYOPIA 23, AUTOSOMAL RECESSIVE",AR
+ALDH18A1,"SPASTIC PARAPLEGIA 9, AUTOSOMAL DOMINANT",AD
+TREX1,"AICARDI-GOUTIERES SYNDROME 1, DOMINANT AND RECESSIVE",AD/AR
+COL4A3,ALPORT SYNDROME AUTOSOMAL RECESSIVE,AR
+COL4A4,ALPORT SYNDROME AUTOSOMAL RECESSIVE,AR
+COL4A3,ALPORT SYNDROME AUTOSOMAL DOMINANT,AD
+ALDH18A1,"CUTIS LAXA, AUTOSOMAL DOMINANT 3",AD
+FZD5,Autosomal Dominant Coloboma,AD
+ADAMTS10,"Weill-Marchesani syndrome 1, recessive",AR
+ADAMTSL4,"Ectopia lentis, isolated, autosomal recessive",AR
+RHO,"Night blindness, congenital stationary, autosomal dominant 1",AD
+RHO,"Retinitis pigmentosa 4, autosomal dominant or recessive",AD/AR
+CRB1,"RETINITIS PIGMENTOSA-12, AUTOSOMAL RECESSIVE",AR
+AGBL1,DOMINANT LATE-ONSET FUCHS CORNEAL DYSTROPHY,AD
+NRL,"Retinal degeneration, autosomal recessive, clumped pigment type",AR
+LOXHD1,DOMINANT LATE-ONSET FUCHS CORNEAL DYSTROPHY,AD
+ATOH7,"Persistent hyperplastic primary vitreous, autosomal recessive",AR
+C1QTNF5,"Retinal degeneration, late-onset, autosomal dominant",AD
+BEST1,"Bestrophinopathy, autosomal recessive",AR
+ARSL,"Chondrodysplasia punctata, X-linked recessive",AR
+ALDH18A1,"CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IIIA",AR
+ALDH18A1,"Spastic paraplegia 9B, autosomal recessive",AR
+CRYGB,"Cataract 39, multiple types, autosomal dominant",AD
+FA2H,"Spastic paraplegia 35, autosomal recessive",AR
+GJA1,"OCULODENTODIGITAL DYSPLASIA, AUTOSOMAL RECESSIVE",AR
+GNAT1,"Night blindness, congenital stationary, autosomal dominant 3",AD
+GPR179,"Night blindness, congenital stationary (complete), 1E, autosomal recessive",AR
+GRM6,"Night blindness, congenital stationary (complete), 1B, autosomal recessive",AR
+LRIT3,"Night blindness, congenital stationary (complete), 1F, autosomal recessive",AR
+PDE6B,"Night blindness, congenital stationary, autosomal dominant 2",AD
+PLK4,"Microcephaly and chorioretinopathy, autosomal recessive, 2",AR
+POLG,Mitochondrial recessive ataxia syndrome,AR
+POLG,"Progressive external ophthalmoplegia, autosomal dominant 1",AD
+WFS1,"Wolfram-like syndrome, autosomal dominant",AD
+TUBGCP6,"Microcephaly and chorioretinopathy, autosomal recessive, 1",AR
+TUBGCP4,"Microcephaly and chorioretinopathy, autosomal recessive, 3",AR
+TRPM1,"Night blindness, congenital stationary (complete), 1C, autosomal recessive",AR
+SLC4A11,"Corneal endothelial dystrophy, autosomal recessive",AR
+SLC39A5,"Myopia 24, autosomal dominant",AD
+SLC24A1,"Night blindness, congenital stationary (complete), 1D, autosomal recessive",AR
+SPG7,"Spastic paraplegia 7, autosomal recessive",AR
+RPE65,Autosomal dominant retinal dystrophy,AD
+RARB,"Microphthalmia, syndromic 12 (monoallelic, dominant negative)",AD
+MAFB,"Duane retraction syndrome 3 (monoallelic, dominant negative)",AD
+EMC1,"Cerebellar atrophy, visual impairment, and psychomotor retardation (monoallelic, dominant negative)",AD
